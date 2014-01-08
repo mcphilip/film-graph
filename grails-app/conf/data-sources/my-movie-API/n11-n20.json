@@ -1,0 +1,480 @@
+[
+   {
+      "genres": [
+         "Comedy",
+         "Drama",
+         "Romance"
+      ],
+      "runtime": ["87 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "City Lights",
+      "imdb_url": "http://www.imdb.com/title/tt0021749/",
+      "rating_count": 59760,
+      "also_known_as": ["Luces de la ciudad"],
+      "imdb_id": "tt0021749",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/021/749.jpg!cover?_upt=81e6be071384809918",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTc2NzYxMzY5MV5BMl5BanBnXkFtZTYwNzY5MTE5._V1_SX214_.jpg"
+      },
+      "plot_simple": "The Tramp struggles to help a blind flower girl he has fallen in love with.",
+      "release_date": 19310307,
+      "writers": ["Charles Chaplin"],
+      "year": 1931,
+      "actors": [
+         "Virginia Cherrill",
+         "Florence Lee",
+         "Harry Myers",
+         "Al Ernest Garcia",
+         "Hank Mann",
+         "Charles Chaplin"
+      ],
+      "filming_locations": "Chaplin Studios - 1416 N. La Brea Avenue, Hollywood, Los Angeles, California, USA",
+      "rating": 8.6,
+      "language": ["English"],
+      "directors": ["Charles Chaplin"]
+   },
+   {
+      "genres": ["Western"],
+      "runtime": ["119 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "The Searchers",
+      "imdb_url": "http://www.imdb.com/title/tt0049730/",
+      "rating_count": 45756,
+      "also_known_as": ["Más corazón que odio"],
+      "imdb_id": "tt0049730",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/049/730.jpg!cover?_upt=ef7841081384809918",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTcwOTU1ODU2OF5BMl5BanBnXkFtZTcwNjA3Njk3OA@@._V1_SY317_CR4,0,214,317_.jpg"
+      },
+      "plot_simple": "A Civil War veteran embarks on a journey to rescue his niece from an Indian tribe.",
+      "release_date": 19560313,
+      "writers": [
+         "Frank S. Nugent",
+         "Alan Le May"
+      ],
+      "year": 1956,
+      "actors": [
+         "John Wayne",
+         "Jeffrey Hunter",
+         "Vera Miles",
+         "Ward Bond",
+         "Natalie Wood",
+         "John Qualen",
+         "Olive Carey",
+         "Henry Brandon",
+         "Ken Curtis",
+         "Harry Carey Jr.",
+         "Antonio Moreno",
+         "Hank Worden",
+         "Beulah Archuletta",
+         "Walter Coy",
+         "Dorothy Jordan"
+      ],
+      "filming_locations": "Aspen, Colorado, USA",
+      "rating": 8,
+      "language": [
+         "English",
+         "Navajo",
+         "Spanish"
+      ],
+      "directors": ["John Ford"]
+   },
+   {
+      "genres": [
+         "Action",
+         "Adventure",
+         "Fantasy",
+         "Sci-Fi"
+      ],
+      "runtime": [
+         "121 min",
+         "125 min (special edition)"
+      ],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Star Wars",
+      "imdb_url": "http://www.imdb.com/title/tt0076759/",
+      "rating_count": 560179,
+      "also_known_as": ["Adventures of the Starkiller: Episode 1 - The Star Wars"],
+      "imdb_id": "tt0076759",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/076/759.jpg!cover?_upt=33785a641384809918",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTU4NTczODkwM15BMl5BanBnXkFtZTcwMzEyMTIyMw@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a wookiee and two droids to save the universe from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.",
+      "release_date": 19770525,
+      "year": 1977,
+      "writers": ["George Lucas"],
+      "actors": [
+         "Mark Hamill",
+         "Harrison Ford",
+         "Carrie Fisher",
+         "Peter Cushing",
+         "Alec Guinness",
+         "Anthony Daniels",
+         "Kenny Baker",
+         "Peter Mayhew",
+         "David Prowse",
+         "Phil Brown",
+         "Shelagh Fraser",
+         "Jack Purvis",
+         "Alex McCrindle",
+         "Eddie Byrne",
+         "Drewe Henley"
+      ],
+      "filming_locations": "Durango, Mexico",
+      "rating": 8.8,
+      "language": ["English"],
+      "directors": ["George Lucas"],
+      "rated": "PG"
+   },
+   {
+      "genres": [
+         "Horror",
+         "Mystery",
+         "Thriller"
+      ],
+      "runtime": [
+         "109 min",
+         "108 min (cut)"
+      ],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Psycho",
+      "imdb_url": "http://www.imdb.com/title/tt0054215/",
+      "rating_count": 258926,
+      "also_known_as": ["Alfred Hitchcock's Psycho"],
+      "imdb_id": "tt0054215",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/054/215.jpg!cover?_upt=ffe73af81384809918",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTgyNDIxNzQ4MF5BMl5BanBnXkFtZTYwMzkyNTQ2._V1_SX214_.jpg"
+      },
+      "plot_simple": "A Phoenix secretary steals $40,000 from her employer's client, goes on the run and checks into a remote motel run by a young man under the domination of his mother.",
+      "release_date": 19600908,
+      "year": 1960,
+      "writers": [
+         "Joseph Stefano",
+         "Robert Bloch"
+      ],
+      "actors": [
+         "Anthony Perkins",
+         "Vera Miles",
+         "John Gavin",
+         "Janet Leigh",
+         "Martin Balsam",
+         "John McIntire",
+         "Simon Oakland",
+         "Frank Albertson",
+         "Patricia Hitchcock",
+         "Vaughn Taylor",
+         "Lurene Tuttle",
+         "John Anderson",
+         "Mort Mills"
+      ],
+      "filming_locations": "4270 Lankershim Boulevard, North Hollywood, Los Angeles, California, USA",
+      "rating": 8.6,
+      "language": ["English"],
+      "directors": ["Alfred Hitchcock"],
+      "rated": "R"
+   },
+   {
+      "genres": [
+         "Adventure",
+         "Mystery",
+         "Sci-Fi"
+      ],
+      "runtime": [
+         "160 min",
+         "141 min (cut)"
+      ],
+      "type": "M",
+      "country": [
+         "USA",
+         "UK"
+      ],
+      "title": "2001: A Space Odyssey",
+      "imdb_url": "http://www.imdb.com/title/tt0062622/",
+      "rating_count": 262117,
+      "also_known_as": ["2001: Odisea del espacio"],
+      "imdb_id": "tt0062622",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/062/622.jpg!cover?_upt=f1aeb8131384809918",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BNDYyMDgxNDQ5Nl5BMl5BanBnXkFtZTcwMjc1ODg3OA@@._V1_SY317_CR12,0,214,317_.jpg"
+      },
+      "plot_simple": "Humanity finds a mysterious, obviously artificial, object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.",
+      "release_date": 19680411,
+      "writers": [
+         "Stanley Kubrick",
+         "Arthur C. Clarke"
+      ],
+      "year": 1968,
+      "actors": [
+         "Keir Dullea",
+         "Gary Lockwood",
+         "William Sylvester",
+         "Daniel Richter",
+         "Leonard Rossiter",
+         "Margaret Tyzack",
+         "Robert Beatty",
+         "Sean Sullivan",
+         "Douglas Rain",
+         "Frank Miller",
+         "Bill Weston",
+         "Ed Bishop",
+         "Glenn Beck",
+         "Alan Gifford",
+         "Ann Gillis"
+      ],
+      "filming_locations": "Shepperton Studios, Shepperton, Surrey, England, UK",
+      "rating": 8.3,
+      "language": [
+         "English",
+         "Russian"
+      ],
+      "directors": ["Stanley Kubrick"]
+   },
+   {
+      "genres": [
+         "Drama",
+         "Film-Noir"
+      ],
+      "runtime": [
+         "110 min",
+         "104 min (cut)"
+      ],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Sunset Boulevard\n            \"Sunset Blvd.\"",
+      "imdb_url": "http://www.imdb.com/title/tt0043014/",
+      "rating_count": 91044,
+      "also_known_as": ["Sunset Boulevard"],
+      "imdb_id": "tt0043014",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/043/014.jpg!cover?_upt=dde59dc01384809918",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTk2OTQ5NDA4MV5BMl5BanBnXkFtZTcwNDIyNzE3OQ@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "A hack screenwriter writes a screenplay for a former silent-film star who has faded into Hollywood obscurity.",
+      "release_date": 19500825,
+      "year": 1950,
+      "writers": [
+         "Charles Brackett",
+         "Billy Wilder"
+      ],
+      "actors": [
+         "William Holden",
+         "Gloria Swanson",
+         "Erich von Stroheim",
+         "Nancy Olson",
+         "Fred Clark",
+         "Lloyd Gough",
+         "Jack Webb",
+         "Franklyn Farnum",
+         "Larry J. Blake",
+         "Charles Dayton",
+         "Cecil B. DeMille",
+         "Hedda Hopper",
+         "Buster Keaton",
+         "Anna Q. Nilsson",
+         "H.B. Warner"
+      ],
+      "filming_locations": "Bel-Air Country Club - 10768 Bellagio Road, Los Angeles, California, USA",
+      "rating": 8.6,
+      "language": ["English"],
+      "directors": ["Billy Wilder"],
+      "rated": "PG"
+   },
+   {
+      "genres": [
+         "Comedy",
+         "Drama",
+         "Romance"
+      ],
+      "runtime": ["106 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "The Graduate",
+      "imdb_url": "http://www.imdb.com/title/tt0061722/",
+      "rating_count": 142062,
+      "also_known_as": ["El graduado"],
+      "imdb_id": "tt0061722",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/061/722.jpg!cover?_upt=622f5fde1384809918",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTQ0ODc4MDk4Nl5BMl5BanBnXkFtZTcwMTEzNzgzNA@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "Recent college graduate Benjamin Braddock is trapped into an affair with Mrs. Robinson, who happens to be the wife of his father's business partner and then finds himself falling in love with her daughter, Elaine.",
+      "release_date": 19671222,
+      "writers": [
+         "Calder Willingham",
+         "Buck Henry"
+      ],
+      "year": 1967,
+      "actors": [
+         "Anne Bancroft",
+         "Dustin Hoffman",
+         "Katharine Ross",
+         "William Daniels",
+         "Murray Hamilton",
+         "Elizabeth Wilson",
+         "Buck Henry",
+         "Brian Avery",
+         "Walter Brooke",
+         "Norman Fell",
+         "Alice Ghostley",
+         "Marion Lorne",
+         "Eddra Gale"
+      ],
+      "filming_locations": "607 North Palm Drive, Beverly Hills, California, USA",
+      "rating": 8.1,
+      "language": ["English"],
+      "directors": ["Mike Nichols"]
+   },
+   {
+      "genres": [
+         "Action",
+         "Adventure",
+         "Comedy",
+         "Romance",
+         "War"
+      ],
+      "runtime": [
+         "80 min (1982)",
+         "83 min (1962)",
+         "75 min (2003 alternate)",
+         "78 min"
+      ],
+      "type": "M",
+      "country": ["USA"],
+      "title": "The General",
+      "imdb_url": "http://www.imdb.com/title/tt0017925/",
+      "rating_count": 32972,
+      "also_known_as": ["General"],
+      "imdb_id": "tt0017925",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/017/925.jpg!cover?_upt=f41a68b21384809918",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BODQxMzMyNTY5Nl5BMl5BanBnXkFtZTcwMDMyNTk3OA@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "When Union spies steal an engineer's beloved locomotive, he pursues it single handedly and straight through enemy lines.",
+      "release_date": 19270224,
+      "year": 1926,
+      "writers": [
+         "Buster Keaton",
+         "Clyde Bruckman"
+      ],
+      "actors": [
+         "Buster Keaton",
+         "Marion Mack",
+         "Glen Cavender",
+         "Jim Farley",
+         "Frederick Vroom",
+         "Charles Henry Smith",
+         "Frank Barnes",
+         "Joe Keaton",
+         "Mike Donlin",
+         "Tom Nawn"
+      ],
+      "filming_locations": "Cottage Grove, Oregon, USA",
+      "rating": 8.3,
+      "language": ["English"],
+      "directors": [
+         "Clyde Bruckman",
+         "Buster Keaton"
+      ],
+      "rated": "Unrated"
+   },
+   {
+      "genres": [
+         "Crime",
+         "Drama"
+      ],
+      "runtime": ["108 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Hatoba\n            \"On the Waterfront\"",
+      "imdb_url": "http://www.imdb.com/title/tt0047296/",
+      "rating_count": 65529,
+      "also_known_as": ["Hatoba"],
+      "imdb_id": "tt0047296",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/047/296.jpg!cover?_upt=12b8f0911384809918",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTM0NDQxMzA0OF5BMl5BanBnXkFtZTcwOTI2NDU2MQ@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "An ex-prize fighter turned longshoreman struggles to stand up to his corrupt union bosses.",
+      "release_date": 19540624,
+      "writers": ["Budd Schulberg"],
+      "year": 1954,
+      "actors": [
+         "Marlon Brando",
+         "Karl Malden",
+         "Lee J. Cobb",
+         "Rod Steiger",
+         "Pat Henning",
+         "Leif Erickson",
+         "James Westerfield",
+         "Tony Galento",
+         "Tami Mauriello",
+         "John F. Hamilton",
+         "John Heldabrand",
+         "Rudy Bond",
+         "Don Blackman",
+         "Arthur Keegan",
+         "Abe Simon"
+      ],
+      "filming_locations": "Court Street, Hoboken, New Jersey, USA",
+      "rating": 8.3,
+      "language": ["English"],
+      "directors": ["Elia Kazan"]
+   },
+   {
+      "genres": [
+         "Drama",
+         "Family",
+         "Fantasy"
+      ],
+      "runtime": [
+         "130 min",
+         "118 min (DVD edition)"
+      ],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Subarashiki kana, jinsei!\n            \"It's a Wonderful Life\"",
+      "imdb_url": "http://www.imdb.com/title/tt0038650/",
+      "rating_count": 172302,
+      "also_known_as": ["Subarashiki kana, jinsei!"],
+      "imdb_id": "tt0038650",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/038/650.jpg!cover?_upt=600de80c1384809918",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTMzMzY5NDc4M15BMl5BanBnXkFtZTcwMzc4NjIxNw@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "An angel helps a compassionate but despairingly frustrated businessman by showing what life would have been like if he never existed.",
+      "release_date": 19540217,
+      "year": 1946,
+      "writers": [
+         "Frances Goodrich",
+         "Albert Hackett"
+      ],
+      "actors": [
+         "James Stewart",
+         "Donna Reed",
+         "Lionel Barrymore",
+         "Thomas Mitchell",
+         "Henry Travers",
+         "Beulah Bondi",
+         "Frank Faylen",
+         "Ward Bond",
+         "Gloria Grahame",
+         "H.B. Warner",
+         "Frank Albertson",
+         "Todd Karns",
+         "Samuel S. Hinds",
+         "Mary Treen",
+         "Virginia Patton"
+      ],
+      "filming_locations": "California, USA",
+      "rating": 8.7,
+      "language": ["English"],
+      "directors": ["Frank Capra"],
+      "rated": "PG"
+   }
+]

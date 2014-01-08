@@ -1,0 +1,475 @@
+[
+   {
+      "genres": [
+         "Adventure",
+         "Fantasy",
+         "Horror"
+      ],
+      "runtime": [
+         "100 min",
+         "104 min (restored)"
+      ],
+      "type": "M",
+      "country": ["USA"],
+      "title": "King Kong",
+      "imdb_url": "http://www.imdb.com/title/tt0024216/",
+      "rating_count": 52715,
+      "also_known_as": ["King Ape"],
+      "imdb_id": "tt0024216",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/024/216.jpg!cover?_upt=ca47a9651384809919",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTkxOTIxMDU2OV5BMl5BanBnXkFtZTcwNjM5NjQyMg@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "A film crew goes to a tropical island for an exotic location shoot and discovers a colossal giant gorilla who takes a shine to their female blonde star.",
+      "release_date": 19330407,
+      "actors": [
+         "Fay Wray",
+         "Robert Armstrong",
+         "Bruce Cabot",
+         "Frank Reicher",
+         "Sam Hardy",
+         "Noble Johnson",
+         "Steve Clemente",
+         "James Flavin",
+         "King Kong"
+      ],
+      "writers": [
+         "James Ashmore Creelman",
+         "Ruth Rose"
+      ],
+      "year": 1933,
+      "filming_locations": "Backlot, Culver Studios - 9336 W. Washington Blvd., Culver City, California, USA",
+      "rating": 8,
+      "language": ["English"]
+   },
+   {
+      "genres": [
+         "Biography",
+         "Crime",
+         "Drama",
+         "Romance"
+      ],
+      "runtime": ["112 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Bonnie and Clyde",
+      "imdb_url": "http://www.imdb.com/title/tt0061418/",
+      "rating_count": 60258,
+      "also_known_as": ["Bonnie &amp; Clyde"],
+      "imdb_id": "tt0061418",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/061/418.jpg!cover?_upt=26c7a5881384809919",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTQzNjI2NDY3MV5BMl5BanBnXkFtZTYwMjE1OTk4._V1_SY317_CR7,0,214,317_.jpg"
+      },
+      "plot_simple": "A somewhat romanticized account of the career of the notoriously violent bank robbing couple and their gang.",
+      "release_date": 19670813,
+      "year": 1967,
+      "writers": [
+         "David Newman",
+         "Robert Benton"
+      ],
+      "actors": [
+         "Warren Beatty",
+         "Faye Dunaway",
+         "Michael J. Pollard",
+         "Gene Hackman",
+         "Estelle Parsons",
+         "Denver Pyle",
+         "Dub Taylor",
+         "Evans Evans",
+         "Gene Wilder"
+      ],
+      "filming_locations": "Albertson Ranch, Triunfo, California, USA",
+      "rating": 8,
+      "language": ["English"],
+      "directors": ["Arthur Penn"],
+      "rated": "R"
+   },
+   {
+      "genres": ["Drama"],
+      "runtime": ["113 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Midnight Cowboy",
+      "imdb_url": "http://www.imdb.com/title/tt0064665/",
+      "rating_count": 55620,
+      "also_known_as": ["Perdidos en la noche"],
+      "imdb_id": "tt0064665",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/064/665.jpg!cover?_upt=dbcbcba31384809919",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTMzMjY1OTE5OV5BMl5BanBnXkFtZTcwMjUzNTk3NA@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "A naive male prostitute and his sickly friend struggle to survive on the streets of New York City.",
+      "release_date": 19691218,
+      "writers": [
+         "Waldo Salt",
+         "James Leo Herlihy"
+      ],
+      "year": 1969,
+      "actors": [
+         "Dustin Hoffman",
+         "Jon Voight",
+         "Sylvia Miles",
+         "John McGiver",
+         "Brenda Vaccaro",
+         "Barnard Hughes",
+         "Ruth White",
+         "Jennifer Salt",
+         "Gilman Rankin",
+         "T. Tom Marlow",
+         "George Eppersen",
+         "Al Scott",
+         "Linda Davis",
+         "J.T. Masters",
+         "Arlene Reeder"
+      ],
+      "filming_locations": "114 East 72nd Street, Manhattan, New York City, New York, USA",
+      "rating": 7.9,
+      "language": [
+         "English",
+         "Italian"
+      ],
+      "directors": ["John Schlesinger"]
+   },
+   {
+      "genres": [
+         "Comedy",
+         "Romance"
+      ],
+      "runtime": ["112 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "The Philadelphia Story",
+      "imdb_url": "http://www.imdb.com/title/tt0032904/",
+      "rating_count": 38625,
+      "also_known_as": ["Die Nacht vor der Hochzeit"],
+      "imdb_id": "tt0032904",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/032/904.jpg!cover?_upt=0748c35a1384809919",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTIyNzYxMjc4OV5BMl5BanBnXkFtZTYwMDc5MDA5._V1_SY317_CR3,0,214,317_.jpg"
+      },
+      "plot_simple": "When a rich woman's ex-husband and a tabloid-type reporter turn up just before her planned remarriage, she begins to learn the truth about herself.",
+      "release_date": 19401226,
+      "writers": [
+         "Donald Ogden Stewart",
+         "Philip Barry"
+      ],
+      "year": 1940,
+      "actors": [
+         "Cary Grant",
+         "Katharine Hepburn",
+         "James Stewart",
+         "Ruth Hussey",
+         "John Howard",
+         "Roland Young",
+         "John Halliday",
+         "Mary Nash",
+         "Virginia Weidler",
+         "Henry Daniell",
+         "Lionel Pape",
+         "Rex Evans"
+      ],
+      "filming_locations": "Metro-Goldwyn-Mayer Studios - 10202 W. Washington Blvd., Culver City, California, USA",
+      "rating": 8,
+      "language": [
+         "English",
+         "French"
+      ],
+      "directors": ["George Cukor"]
+   },
+   {
+      "genres": [
+         "Drama",
+         "Western"
+      ],
+      "runtime": [
+         "118 min",
+         "90 min (cut)"
+      ],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Shane",
+      "imdb_url": "http://www.imdb.com/title/tt0046303/",
+      "rating_count": 20921,
+      "also_known_as": ["George Stevens' Production of Shane"],
+      "imdb_id": "tt0046303",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/046/303.jpg!cover?_upt=d2bec9f21384809919",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTM0Nzg5NzE5Ml5BMl5BanBnXkFtZTcwNzE3NDkyMQ@@._V1_SY317_CR5,0,214,317_.jpg"
+      },
+      "plot_simple": "A weary gunfighter attempts to settle down with a homestead family, but a smoldering settler/rancher conflict forces him to act.",
+      "release_date": 19530924,
+      "year": 1953,
+      "writers": [
+         "A.B. Guthrie Jr.",
+         "Jack Sher"
+      ],
+      "actors": [
+         "Alan Ladd",
+         "Jean Arthur",
+         "Van Heflin",
+         "Brandon De Wilde",
+         "Jack Palance",
+         "Ben Johnson",
+         "Edgar Buchanan",
+         "Emile Meyer",
+         "Elisha Cook Jr.",
+         "Douglas Spencer",
+         "John Dierkes",
+         "Ellen Corby",
+         "Paul McVey",
+         "John Miller",
+         "Edith Evanson"
+      ],
+      "filming_locations": "Big Bear Lake, Big Bear Valley, San Bernardino National Forest, California, USA",
+      "rating": 7.7,
+      "language": ["English"],
+      "directors": ["George Stevens"],
+      "rated": "Approved"
+   },
+   {
+      "genres": [
+         "Comedy",
+         "Romance"
+      ],
+      "runtime": [
+         "105 min",
+         "65 min (cut TV)"
+      ],
+      "type": "M",
+      "country": ["USA"],
+      "title": "It Happened One Night",
+      "imdb_url": "http://www.imdb.com/title/tt0025316/",
+      "rating_count": 40809,
+      "also_known_as": ["Night Bus"],
+      "imdb_id": "tt0025316",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/025/316.jpg!cover?_upt=4055d9de1384809919",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTczOTQ1MTQ4MF5BMl5BanBnXkFtZTcwODI2MDk4OQ@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "A spoiled heiress, running away from her family, is helped by a man who's actually a reporter looking for a story.",
+      "release_date": 19340223,
+      "year": 1934,
+      "writers": [
+         "Robert Riskin",
+         "Samuel Hopkins Adams"
+      ],
+      "actors": [
+         "Clark Gable",
+         "Claudette Colbert",
+         "Walter Connolly",
+         "Roscoe Karns",
+         "Jameson Thomas",
+         "Alan Hale",
+         "Arthur Hoyt",
+         "Blanche Friderici",
+         "Charles C. Wilson"
+      ],
+      "filming_locations": "Busch Gardens - S. Grove Avenue, Pasadena, California, USA",
+      "rating": 8.2,
+      "language": ["English"],
+      "directors": ["Frank Capra"],
+      "rated": "Unrated"
+   },
+   {
+      "genres": ["Drama"],
+      "runtime": [
+         "122 min",
+         "125 min (re-release)"
+      ],
+      "type": "M",
+      "country": ["USA"],
+      "title": "A Streetcar Named Desire",
+      "imdb_url": "http://www.imdb.com/title/tt0044081/",
+      "rating_count": 57694,
+      "also_known_as": ["Un tranvía llamado deseo"],
+      "imdb_id": "tt0044081",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/044/081.jpg!cover?_upt=47a6c1651384809919",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTk3OTQ4MzY3M15BMl5BanBnXkFtZTcwODM0ODcyMg@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "Disturbed Blanche DuBois moves in with her sister in New Orleans and is tormented by her brutish brother-in-law while her reality crumbles around her.",
+      "release_date": 19511201,
+      "year": 1951,
+      "writers": [
+         "Tennessee Williams",
+         "Oscar Saul"
+      ],
+      "actors": [
+         "Vivien Leigh",
+         "Marlon Brando",
+         "Kim Hunter",
+         "Karl Malden",
+         "Rudy Bond",
+         "Nick Dennis",
+         "Peg Hillias",
+         "Wright King",
+         "Richard Garrick",
+         "Ann Dere",
+         "Edna Thomas",
+         "Mickey Kuhn"
+      ],
+      "filming_locations": "Los Angeles, California, USA",
+      "rating": 8,
+      "language": [
+         "English",
+         "Spanish"
+      ],
+      "directors": ["Elia Kazan"],
+      "rated": "PG"
+   },
+   {
+      "genres": [
+         "Mystery",
+         "Thriller"
+      ],
+      "runtime": ["112 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Rear Window",
+      "imdb_url": "http://www.imdb.com/title/tt0047396/",
+      "rating_count": 203103,
+      "also_known_as": ["Alfred Hitchcock's Rear Window"],
+      "imdb_id": "tt0047396",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/047/396.jpg!cover?_upt=bb96edb11384809919",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BNDUzMTY0NTE3NF5BMl5BanBnXkFtZTYwNDEyOTM2._V1_SX214_.jpg"
+      },
+      "plot_simple": "A wheelchair bound photographer spies on his neighbours from his apartment window and becomes convinced one of them has committed murder.",
+      "release_date": 19550129,
+      "year": 1954,
+      "writers": [
+         "John Michael Hayes",
+         "Cornell Woolrich"
+      ],
+      "actors": [
+         "James Stewart",
+         "Grace Kelly",
+         "Wendell Corey",
+         "Thelma Ritter",
+         "Raymond Burr",
+         "Judith Evelyn",
+         "Ross Bagdasarian",
+         "Georgine Darcy",
+         "Sara Berner",
+         "Frank Cady",
+         "Jesslyn Fax",
+         "Rand Harper",
+         "Irene Winston",
+         "Havis Davenport"
+      ],
+      "filming_locations": "Los Angeles, California, USA",
+      "rating": 8.6,
+      "language": ["English"],
+      "directors": ["Alfred Hitchcock"],
+      "rated": "PG"
+   },
+   {
+      "genres": [
+         "Drama",
+         "History"
+      ],
+      "runtime": [
+         "163 min",
+         "178 min (2000 video release)",
+         "197 min (DVD)",
+         "123 min (TV)"
+      ],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Intolerance: Love's Struggle Throughout the Ages",
+      "imdb_url": "http://www.imdb.com/title/tt0006864/",
+      "rating_count": 7912,
+      "also_known_as": ["Intolerance"],
+      "imdb_id": "tt0006864",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/006/864.jpg!cover?_upt=735ce5811384809919",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BODEyNDUyODE3N15BMl5BanBnXkFtZTcwNTcyMjkyMQ@@._V1_SY317_CR4,0,214,317_.jpg"
+      },
+      "plot_simple": "The story of a poor young woman, separated by prejudice from her husband and baby, is interwoven with tales of intolerance from throughout history.",
+      "release_date": 19160905,
+      "actors": [
+         "Lillian Gish",
+         "Spottiswoode Aitken",
+         "Mary Alden",
+         "Frank Bennett",
+         "Monte Blue",
+         "William H. Brown",
+         "Lucille Browne",
+         "Elmer Clifton",
+         "Miriam Cooper",
+         "Josephine Crowell",
+         "Dore Davidson",
+         "Sam De Grasse",
+         "Edward Dillon",
+         "Taylor N. Duncan",
+         "Pearl Elmore"
+      ],
+      "writers": [
+         "D.W. Griffith",
+         "Anita Loos"
+      ],
+      "year": 1916,
+      "filming_locations": "Baldwin Hills, Los Angeles, California, USA",
+      "rating": 7.9,
+      "directors": ["D.W. Griffith"]
+   },
+   {
+      "genres": [
+         "Action",
+         "Adventure",
+         "Fantasy"
+      ],
+      "runtime": [
+         "178 min",
+         "208 min (special extended edition)",
+         "228 min (including extended credits)"
+      ],
+      "type": "M",
+      "country": [
+         "New Zealand",
+         "USA"
+      ],
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "imdb_url": "http://www.imdb.com/title/tt0120737/",
+      "rating_count": 753633,
+      "also_known_as": ["El señor de los anillos: La comunidad del anillo"],
+      "imdb_id": "tt0120737",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/120/737.jpg!cover?_upt=b6b1fa0d1384809919",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BNTEyMjAwMDU1OV5BMl5BanBnXkFtZTcwNDQyNTkxMw@@._V1_SY317_CR1,0,214,317_.jpg"
+      },
+      "plot_simple": "A meek hobbit of The Shire and eight companions set out on a journey to Mount Doom to destroy the One Ring and the dark lord Sauron.",
+      "release_date": 20011219,
+      "year": 2001,
+      "writers": [
+         "J.R.R. Tolkien",
+         "Fran Walsh"
+      ],
+      "actors": [
+         "Alan Howard",
+         "Elijah Wood",
+         "Noel Appleby",
+         "Sean Astin",
+         "Sala Baker",
+         "Sean Bean",
+         "Cate Blanchett",
+         "Orlando Bloom",
+         "Billy Boyd",
+         "Marton Csokas",
+         "Megan Edwards",
+         "Michael Elsworth",
+         "Mark Ferguson",
+         "Ian Holm",
+         "Christopher Lee"
+      ],
+      "filming_locations": "Arrowtown Recreational Reserve, Arrowtown, Otago, New Zealand",
+      "rating": 8.8,
+      "language": [
+         "English",
+         "Sindarin"
+      ],
+      "directors": ["Peter Jackson"],
+      "rated": "PG-13"
+   }
+]

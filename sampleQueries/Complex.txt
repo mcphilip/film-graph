@@ -1,0 +1,39 @@
+MATCH 
+	(actorNode)-[:ACTED_IN]->(movieNode) 
+WITH 
+	actorNode, 
+	movieNode
+ORDER BY 
+	movieNode.afiRank ASC 
+WITH 
+	actorNode, 
+	COUNT(movieNode) as movieCount, 
+	COLLECT(movieNode.afiRank) as afiRankings,
+	COLLECT(movieNode) as moviesList	
+WHERE 
+	movieCount > 2 
+WITH 
+	actorNode.name as Actor, 
+	movieCount, 
+	REDUCE(movieDescription = [], imdbDetails in moviesList | 
+		movieDescription + [
+			"[Title: " + UPPER(imdbDetails.title), 
+			"imdbURL: " + imdbDetails.imdbUrl + "]"
+		] 
+	) as `Film Details`,
+	(REDUCE(afiRankingList = "[", afiRank in afiRankings |
+		afiRankingList + STR(afiRank) + ","
+	) + "]") as `AFI Ranks`,
+	HEAD(afiRankings) as highestAFI
+RETURN 
+	Actor, 
+	movieCount as `# of AFI Movies`,
+	`Film Details`,
+	`AFI Ranks`	
+ORDER BY 
+	highestAFI ASC, 
+	`# of AFI Movies` DESC
+LIMIT 50
+
+
+

@@ -1,0 +1,28 @@
+MATCH
+(movieNode)
+WHERE
+	HAS(movieNode.releaseDate)
+WITH
+	movieNode.releaseDate as releaseDate,
+	movieNode.releaseDate / 10000 as releaseYear
+WITH
+	releaseDate,
+	releaseYear,
+	((releaseDate - (releaseYear * 10000))/100) as releaseMonth
+WITH
+	releaseDate,
+	releaseYear,
+	releaseMonth,
+	(releaseDate - (((releaseYear * 100)+releaseMonth)*100)) as releaseDay
+WITH
+	releaseDate,
+	releaseYear,
+	releaseMonth,
+	releaseDay
+RETURN
+	releaseYear,
+	count(*) as numberOfReleases
+	
+ORDER BY
+	numberOfReleases DESC,
+	releaseYear ASC

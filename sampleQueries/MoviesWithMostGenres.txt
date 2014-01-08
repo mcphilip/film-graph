@@ -1,0 +1,21 @@
+MATCH
+	(movieNode)<-[:`GENRE_OF`]-(genreNode)
+WITH
+	movieNode,
+	genreNode
+ORDER BY
+	genreNode.name ASC
+WITH
+	movieNode,
+	COLLECT(genreNode.name) as movieGenres
+RETURN
+	movieNode.afiRank as `AFI Rank`,
+	movieNode.title as Movie,	
+	REDUCE(genreCollection = [], genre in movieGenres |
+		genreCollection + [genre] 		
+	) as Genres,
+	LENGTH(movieGenres) as numberOfGenres
+ORDER BY
+	numberOfGenres DESC,
+	`AFI Rank` ASC,
+	Movie ASC

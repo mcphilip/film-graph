@@ -1,0 +1,509 @@
+[
+   {
+      "genres": [
+         "Drama",
+         "Mystery"
+      ],
+      "runtime": ["119 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "El ciudadano\n            \"Citizen Kane\"",
+      "imdb_url": "http://www.imdb.com/title/tt0033467/",
+      "rating_count": 207109,
+      "also_known_as": ["El ciudadano"],
+      "imdb_id": "tt0033467",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/033/467.jpg!cover?_upt=6497dd631384809917",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTQ2Mjc1MDQwMl5BMl5BanBnXkFtZTcwNzUyOTUyMg@@._V1_SY317_CR0,0,214,317_.jpg"
+      },
+      "plot_simple": "Following the death of a publishing tycoon, news reporters scramble to discover the meaning of his final utterance.",
+      "release_date": 19410808,
+      "writers": [
+         "Herman J. Mankiewicz",
+         "Orson Welles"
+      ],
+      "year": 1941,
+      "actors": [
+         "Joseph Cotten",
+         "Dorothy Comingore",
+         "Agnes Moorehead",
+         "Ruth Warrick",
+         "Ray Collins",
+         "Erskine Sanford",
+         "Everett Sloane",
+         "William Alland",
+         "Paul Stewart",
+         "George Coulouris",
+         "Fortunio Bonanova",
+         "Gus Schilling",
+         "Philip Van Zandt",
+         "Georgia Backus",
+         "Harry Shannon"
+      ],
+      "filming_locations": "New York City, New York, USA",
+      "rating": 8.5,
+      "language": ["English"],
+      "directors": ["Orson Welles"]
+   },
+   {
+      "genres": [
+         "Crime",
+         "Drama"
+      ],
+      "runtime": ["175 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "The Godfather",
+      "imdb_url": "http://www.imdb.com/title/tt0068646/",
+      "rating_count": 723715,
+      "also_known_as": ["Mario Puzo's The Godfather"],
+      "imdb_id": "tt0068646",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/068/646.jpg!cover?_upt=57bd6ae71384809917",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMjEyMjcyNDI4MF5BMl5BanBnXkFtZTcwMDA5Mzg3OA@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "release_date": 19720324,
+      "year": 1972,
+      "writers": [
+         "Mario Puzo",
+         "Francis Ford Coppola"
+      ],
+      "actors": [
+         "Marlon Brando",
+         "Al Pacino",
+         "James Caan",
+         "Richard S. Castellano",
+         "Robert Duvall",
+         "Sterling Hayden",
+         "John Marley",
+         "Richard Conte",
+         "Al Lettieri",
+         "Diane Keaton",
+         "Abe Vigoda",
+         "Talia Shire",
+         "Gianni Russo",
+         "John Cazale",
+         "Rudy Bond"
+      ],
+      "filming_locations": "110 Longfellow Road, Staten Island, New York City, New York, USA",
+      "rating": 9.2,
+      "language": [
+         "English",
+         "Italian",
+         "Latin"
+      ],
+      "directors": ["Francis Ford Coppola"],
+      "rated": "R"
+   },
+   {
+      "genres": [
+         "Drama",
+         "Romance",
+         "War"
+      ],
+      "runtime": [
+         "102 min",
+         "82 min (cut)"
+      ],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Casablanca",
+      "imdb_url": "http://www.imdb.com/title/tt0034583/",
+      "rating_count": 266613,
+      "also_known_as": ["Kazablanka"],
+      "imdb_id": "tt0034583",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/034/583.jpg!cover?_upt=4d877ac61384809917",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTcwNDI5MjI1Ml5BMl5BanBnXkFtZTYwODE4NDI2._V1_SX214_.jpg"
+      },
+      "plot_simple": "Set in unoccupied Africa during the early days of World War II: An American expatriate meets a former lover, with unforeseen complications.",
+      "release_date": 19430707,
+      "writers": [
+         "Julius J. Epstein",
+         "Philip G. Epstein"
+      ],
+      "year": 1942,
+      "actors": [
+         "Humphrey Bogart",
+         "Ingrid Bergman",
+         "Paul Henreid",
+         "Claude Rains",
+         "Conrad Veidt",
+         "Sydney Greenstreet",
+         "Peter Lorre",
+         "S.Z. Sakall",
+         "Madeleine Lebeau",
+         "Dooley Wilson",
+         "Joy Page",
+         "John Qualen",
+         "Leonid Kinskey",
+         "Curt Bois"
+      ],
+      "filming_locations": "Flagstaff, Arizona, USA",
+      "rating": 8.7,
+      "language": [
+         "English",
+         "French",
+         "German",
+         "Italian"
+      ],
+      "directors": ["Michael Curtiz"]
+   },
+   {
+      "genres": [
+         "Biography",
+         "Drama",
+         "Sport"
+      ],
+      "runtime": ["129 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Raging Bull",
+      "imdb_url": "http://www.imdb.com/title/tt0081398/",
+      "rating_count": 153262,
+      "also_known_as": ["The Raging Bull"],
+      "imdb_id": "tt0081398",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/081/398.jpg!cover?_upt=347741961384809917",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMjIxOTg3OTc5MF5BMl5BanBnXkFtZTcwNzkwNjMwNA@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "An emotionally self-destructive boxer's journey through life, as the violence and temper that leads him to the top in the ring, destroys his life outside it.",
+      "release_date": 19801219,
+      "year": 1980,
+      "writers": [
+         "Jake LaMotta",
+         "Joseph Carter"
+      ],
+      "actors": [
+         "Robert De Niro",
+         "Cathy Moriarty",
+         "Joe Pesci",
+         "Frank Vincent",
+         "Nicholas Colasanto",
+         "Theresa Saldana",
+         "Mario Gallo",
+         "Frank Adonis",
+         "Joseph Bono",
+         "Frank Topham",
+         "Lori Anne Flax",
+         "Charles Scorsese",
+         "Don Dunphy",
+         "Bill Hanrahan",
+         "Rita Bennett"
+      ],
+      "filming_locations": "Downtown, Los Angeles, California, USA",
+      "rating": 8.3,
+      "language": ["English"],
+      "directors": ["Martin Scorsese"],
+      "rated": "R"
+   },
+   {
+      "genres": [
+         "Comedy",
+         "Musical",
+         "Romance"
+      ],
+      "runtime": ["103 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Singin' in the Rain",
+      "imdb_url": "http://www.imdb.com/title/tt0045152/",
+      "rating_count": 94994,
+      "also_known_as": ["Cantando bajo la lluvia"],
+      "imdb_id": "tt0045152",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/045/152.jpg!cover?_upt=bef94b751384809917",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTUxMTIyNTI4Nl5BMl5BanBnXkFtZTcwNTk1ODQyMg@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "A silent film production company and cast make a difficult transition to sound.",
+      "release_date": 19810515,
+      "writers": [
+         "Adolph Green",
+         "Betty Comden"
+      ],
+      "year": 1952,
+      "actors": [
+         "Gene Kelly",
+         "Donald O'Connor",
+         "Debbie Reynolds",
+         "Jean Hagen",
+         "Millard Mitchell",
+         "Cyd Charisse",
+         "Douglas Fowley",
+         "Rita Moreno"
+      ],
+      "filming_locations": "Grauman's Chinese Theater - 6925 Hollywood Blvd., Hollywood, Los Angeles, California, USA",
+      "rating": 8.4,
+      "language": ["English"],
+      "directors": [
+         "Stanley Donen",
+         "Gene Kelly"
+      ]
+   },
+   {
+      "genres": [
+         "Drama",
+         "Romance",
+         "War"
+      ],
+      "runtime": [
+         "238 min",
+         "223 min (1969 re-release)",
+         "234 min (1985 re-release)",
+         "224 min (1994 re-release)",
+         "233 min (1989 re-release)",
+         "226 min (copyright length)"
+      ],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Gone with the Wind",
+      "imdb_url": "http://www.imdb.com/title/tt0031381/",
+      "rating_count": 141500,
+      "also_known_as": ["Lo que el viento se llevó"],
+      "imdb_id": "tt0031381",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/031/381.jpg!cover?_upt=fea2f1261384809917",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BODQ1NDk2Nzc4OF5BMl5BanBnXkFtZTcwMTI0Njk3OA@@._V1_SY317_CR12,0,214,317_.jpg"
+      },
+      "plot_simple": "A manipulative Southern belle carries on a turbulent affair with a blockade runner during the American Civil War.",
+      "release_date": 19400117,
+      "writers": [
+         "Margaret Mitchell",
+         "Sidney Howard"
+      ],
+      "year": 1939,
+      "actors": [
+         "Thomas Mitchell",
+         "Barbara O'Neil",
+         "Vivien Leigh",
+         "Evelyn Keyes",
+         "Ann Rutherford",
+         "George Reeves",
+         "Fred Crane",
+         "Hattie McDaniel",
+         "Oscar Polk",
+         "Butterfly McQueen",
+         "Victor Jory",
+         "Everett Brown",
+         "Howard C. Hickman",
+         "Alicia Rhett",
+         "Leslie Howard"
+      ],
+      "filming_locations": "Agoura Hills, California, USA",
+      "rating": 8.2,
+      "language": ["English"],
+      "directors": ["Victor Fleming"]
+   },
+   {
+      "genres": [
+         "Adventure",
+         "Biography",
+         "Drama",
+         "History",
+         "War"
+      ],
+      "runtime": [
+         "216 min",
+         "228 min (director's cut)",
+         "187 min (1970 re-release)",
+         "210 min (original)",
+         "222 min (premiere)",
+         "227 min (restored roadshow)"
+      ],
+      "type": "M",
+      "country": [
+         "UK",
+         "USA"
+      ],
+      "title": "Lawrence of Arabia",
+      "imdb_url": "http://www.imdb.com/title/tt0056172/",
+      "rating_count": 124616,
+      "also_known_as": ["Lawrence de Arabia"],
+      "imdb_id": "tt0056172",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/056/172.jpg!cover?_upt=ba7bb93b1384809917",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMzAwMjM4NzA2OV5BMl5BanBnXkFtZTcwMDI0NzAwMQ@@._V1_SY317_CR1,0,214,317_.jpg"
+      },
+      "plot_simple": "A flamboyant and controversial British military figure and his conflicted loyalties during his World War I service in Arabia.",
+      "release_date": 19630130,
+      "writers": [
+         "T.E. Lawrence",
+         "Robert Bolt"
+      ],
+      "year": 1962,
+      "actors": [
+         "Peter O'Toole",
+         "Alec Guinness",
+         "Anthony Quinn",
+         "Jack Hawkins",
+         "Omar Sharif",
+         "José Ferrer",
+         "Anthony Quayle",
+         "Claude Rains",
+         "Arthur Kennedy",
+         "Donald Wolfit",
+         "I.S. Johar",
+         "Gamil Ratib",
+         "Michel Ray",
+         "John Dimech",
+         "Zia Mohyeddin"
+      ],
+      "filming_locations": "Morocco",
+      "rating": 8.4,
+      "language": [
+         "English",
+         "Arabic",
+         "Turkish"
+      ],
+      "directors": ["David Lean"]
+   },
+   {
+      "genres": [
+         "Biography",
+         "Drama",
+         "History",
+         "War"
+      ],
+      "runtime": [
+         "195 min",
+         "185 min (TV)"
+      ],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Schindler's List",
+      "imdb_url": "http://www.imdb.com/title/tt0108052/",
+      "rating_count": 522388,
+      "also_known_as": ["La lista de Schindler"],
+      "imdb_id": "tt0108052",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/108/052.jpg!cover?_upt=8cd6599f1384809917",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTIxOTAxNTc4NF5BMl5BanBnXkFtZTcwOTg1NzQyMQ@@._V1_SY317_CR3,0,214,317_.jpg"
+      },
+      "plot_simple": "In Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "release_date": 19931215,
+      "year": 1993,
+      "writers": [
+         "Thomas Keneally",
+         "Steven Zaillian"
+      ],
+      "actors": [
+         "Liam Neeson",
+         "Ben Kingsley",
+         "Ralph Fiennes",
+         "Caroline Goodall",
+         "Jonathan Sagall",
+         "Embeth Davidtz",
+         "Malgorzata Gebel",
+         "Shmuel Levy",
+         "Mark Ivanir",
+         "Béatrice Macola",
+         "Andrzej Seweryn",
+         "Friedrich von Thun",
+         "Krzysztof Luft",
+         "Harry Nehring",
+         "Norbert Weisser"
+      ],
+      "filming_locations": "Auschwitz-Birkenau Concentration Camp, Oswiecim, Malopolskie, Poland",
+      "rating": 8.9,
+      "language": [
+         "English",
+         "Hebrew",
+         "German",
+         "Polish"
+      ],
+      "directors": ["Steven Spielberg"],
+      "rated": "R"
+   },
+   {
+      "genres": [
+         "Mystery",
+         "Romance",
+         "Thriller"
+      ],
+      "runtime": [
+         "128 min",
+         "129 min (1996 restored)"
+      ],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Vertigo",
+      "imdb_url": "http://www.imdb.com/title/tt0052357/",
+      "rating_count": 154830,
+      "also_known_as": ["Vértigo"],
+      "imdb_id": "tt0052357",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/052/357.jpg!cover?_upt=701b4b751384809917",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BNzY0NzQyNzQzOF5BMl5BanBnXkFtZTcwMTgwNTk4OQ@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's much-younger wife, all the while becoming dangerously obsessed with her.",
+      "release_date": 19580721,
+      "year": 1958,
+      "writers": [
+         "Alec Coppel",
+         "Samuel A. Taylor"
+      ],
+      "actors": [
+         "James Stewart",
+         "Kim Novak",
+         "Barbara Bel Geddes",
+         "Tom Helmore",
+         "Henry Jones",
+         "Raymond Bailey",
+         "Ellen Corby",
+         "Konstantin Shayne",
+         "Lee Patrick"
+      ],
+      "filming_locations": "1000 Mason Street, North Beach, San Francisco, California, USA",
+      "rating": 8.5,
+      "language": ["English"],
+      "directors": ["Alfred Hitchcock"],
+      "rated": "PG"
+   },
+   {
+      "genres": [
+         "Adventure",
+         "Family",
+         "Fantasy",
+         "Musical"
+      ],
+      "runtime": ["101 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "The Wizard of Oz",
+      "imdb_url": "http://www.imdb.com/title/tt0032138/",
+      "rating_count": 182503,
+      "also_known_as": ["El mago de Oz"],
+      "imdb_id": "tt0032138",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/032/138.jpg!cover?_upt=1d0e306c1384809917",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTU0MTA2OTIwNF5BMl5BanBnXkFtZTcwMzA0Njk3OA@@._V1_SY317_CR10,0,214,317_.jpg"
+      },
+      "plot_simple": "Dorothy Gale is swept away to a magical land in a tornado and embarks on a quest to see the Wizard who can help her return home.",
+      "release_date": 19390825,
+      "year": 1939,
+      "writers": [
+         "Noel Langley",
+         "Florence Ryerson"
+      ],
+      "actors": [
+         "Judy Garland",
+         "Frank Morgan",
+         "Ray Bolger",
+         "Bert Lahr",
+         "Jack Haley",
+         "Billie Burke",
+         "Margaret Hamilton",
+         "Charley Grapewin",
+         "Pat Walshe",
+         "Clara Blandick",
+         "Terry",
+         "The Singer Midgets"
+      ],
+      "filming_locations": "Culver City, California, USA",
+      "rating": 8.2,
+      "language": ["English"],
+      "directors": ["Victor Fleming"],
+      "rated": "PG"
+   }
+]

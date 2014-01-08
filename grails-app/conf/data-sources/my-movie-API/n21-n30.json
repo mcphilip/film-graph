@@ -1,0 +1,481 @@
+[
+   {
+      "genres": [
+         "Crime",
+         "Drama",
+         "Mystery",
+         "Thriller"
+      ],
+      "runtime": ["130 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Chinatown",
+      "imdb_url": "http://www.imdb.com/title/tt0071315/",
+      "rating_count": 140768,
+      "also_known_as": ["Barrio Chino"],
+      "imdb_id": "tt0071315",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/071/315.jpg!cover?_upt=0d61dd9b1384809918",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTUyMTQ1NjA2OV5BMl5BanBnXkFtZTcwODQ1Njg3OA@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "A private detective hired to expose an adulterer finds himself caught up in a web of deceit, corruption and murder.",
+      "release_date": 19740620,
+      "year": 1974,
+      "writers": ["Robert Towne"],
+      "actors": [
+         "Jack Nicholson",
+         "Faye Dunaway",
+         "John Huston",
+         "Perry Lopez",
+         "John Hillerman",
+         "Darrell Zwerling",
+         "Diane Ladd",
+         "Roy Jenson",
+         "Roman Polanski",
+         "Richard Bakalyan",
+         "Joe Mantell",
+         "Bruce Glover",
+         "Nandu Hinds",
+         "James O'Rear",
+         "James Hong"
+      ],
+      "filming_locations": "1315 South El Molino Drive, South Pasadena, California, USA",
+      "rating": 8.4,
+      "language": [
+         "English",
+         "Cantonese",
+         "Spanish"
+      ],
+      "directors": ["Roman Polanski"],
+      "rated": "TV-14"
+   },
+   {
+      "genres": ["Comedy"],
+      "runtime": ["120 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Some Like It Hot",
+      "imdb_url": "http://www.imdb.com/title/tt0053291/",
+      "rating_count": 114476,
+      "also_known_as": ["Una Eva y dos Adanes"],
+      "imdb_id": "tt0053291",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/053/291.jpg!cover?_upt=6c7a895c1384809918",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BNzYzMDkzNDQ0N15BMl5BanBnXkFtZTcwNzQ0NDQyNA@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "When two musicians witness a mob hit, they flee the state in an all female band disguised as women, but further complications set in.",
+      "release_date": 19590329,
+      "writers": [
+         "Billy Wilder",
+         "I.A.L. Diamond"
+      ],
+      "year": 1959,
+      "actors": [
+         "Marilyn Monroe",
+         "Tony Curtis",
+         "Jack Lemmon",
+         "George Raft",
+         "Pat O'Brien",
+         "Joe E. Brown",
+         "Nehemiah Persoff",
+         "Joan Shawlee",
+         "Billy Gray",
+         "George E. Stone",
+         "Dave Barry",
+         "Mike Mazurki",
+         "Harry Wilson",
+         "Beverly Wills",
+         "Barbara Drew"
+      ],
+      "filming_locations": "Coronado Beach, Coronado, California, USA",
+      "rating": 8.4,
+      "language": ["English"],
+      "directors": ["Billy Wilder"]
+   },
+   {
+      "genres": ["Drama"],
+      "runtime": [
+         "129 min",
+         "108 min (cut)"
+      ],
+      "type": "M",
+      "country": ["USA"],
+      "title": "The Grapes of Wrath",
+      "imdb_url": "http://www.imdb.com/title/tt0032551/",
+      "rating_count": 40040,
+      "also_known_as": ["Highway 66"],
+      "imdb_id": "tt0032551",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/032/551.jpg!cover?_upt=b1e0cee41384809918",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMzgzNjcxNjg2M15BMl5BanBnXkFtZTcwMjQxNDQ3Mg@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "A poor Midwest family is forced off of their land. They travel to California, suffering the misfortunes of the homeless in the Great Depression.",
+      "release_date": 19400315,
+      "year": 1940,
+      "writers": [
+         "Nunnally Johnson",
+         "John Steinbeck"
+      ],
+      "actors": [
+         "Henry Fonda",
+         "Jane Darwell",
+         "John Carradine",
+         "Charley Grapewin",
+         "Dorris Bowdon",
+         "Russell Simpson",
+         "O.Z. Whitehead",
+         "John Qualen",
+         "Eddie Quillan",
+         "Zeffie Tilbury",
+         "Frank Sully",
+         "Frank Darien",
+         "Darryl Hickman",
+         "Shirley Mills",
+         "Roger Imhof"
+      ],
+      "filming_locations": "Backlot, 20th Century Fox Studios - 10201 Pico Blvd., Century City, Los Angeles, California, USA",
+      "rating": 8.2,
+      "language": ["English"],
+      "directors": ["John Ford"],
+      "rated": "Approved"
+   },
+   {
+      "genres": [
+         "Adventure",
+         "Family",
+         "Fantasy",
+         "Sci-Fi"
+      ],
+      "runtime": [
+         "115 min",
+         "120 min (extended)"
+      ],
+      "type": "M",
+      "country": ["USA"],
+      "title": "E.T. the Extra-Terrestrial",
+      "imdb_url": "http://www.imdb.com/title/tt0083866/",
+      "rating_count": 196860,
+      "also_known_as": ["E.T."],
+      "imdb_id": "tt0083866",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/083/866.jpg!cover?_upt=fef9dd171384809918",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTc1NTQ0MTUyNF5BMl5BanBnXkFtZTcwMDYzMDU2Mw@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "A meek and alienated little boy finds a stranded extraterrestrial. He has to find the courage to defy the authorities to help the alien return to its home planet.",
+      "release_date": 19840623,
+      "writers": ["Melissa Mathison"],
+      "year": 1982,
+      "actors": [
+         "Dee Wallace",
+         "Henry Thomas",
+         "Peter Coyote",
+         "Robert MacNaughton",
+         "Drew Barrymore",
+         "K.C. Martel",
+         "Sean Frye",
+         "C. Thomas Howell",
+         "Erika Eleniak",
+         "David M. O'Dell",
+         "Richard Swingler",
+         "Frank Toth",
+         "Robert Barton",
+         "Michael Darrell",
+         "David Berkson"
+      ],
+      "filming_locations": "7121 Lonzo Street, Tujunga, Los Angeles, California, USA",
+      "rating": 7.9,
+      "language": ["English"],
+      "directors": ["Steven Spielberg"]
+   },
+   {
+      "genres": [
+         "Crime",
+         "Drama",
+         "Mystery"
+      ],
+      "runtime": ["129 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "To Kill a Mockingbird",
+      "imdb_url": "http://www.imdb.com/title/tt0056592/",
+      "rating_count": 136840,
+      "also_known_as": ["Matar a un ruiseñor"],
+      "imdb_id": "tt0056592",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/056/592.jpg!cover?_upt=246dea051384809918",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMjA4MzI1NDY2Nl5BMl5BanBnXkFtZTcwMTcyODc5Mw@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "Atticus Finch, a lawyer in the Depression-era South, defends a black man against an undeserved rape charge, and his kids against prejudice.",
+      "release_date": 19630316,
+      "year": 1962,
+      "writers": [
+         "Harper Lee",
+         "Horton Foote"
+      ],
+      "actors": [
+         "Gregory Peck",
+         "John Megna",
+         "Frank Overton",
+         "Rosemary Murphy",
+         "Ruth White",
+         "Brock Peters",
+         "Estelle Evans",
+         "Paul Fix",
+         "Collin Wilcox Paxton",
+         "James Anderson",
+         "Alice Ghostley",
+         "Robert Duvall",
+         "William Windom",
+         "Crahan Denton",
+         "Richard Hale"
+      ],
+      "filming_locations": "Courthouse Square, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA",
+      "rating": 8.4,
+      "language": ["English"],
+      "directors": ["Robert Mulligan"],
+      "rated": "Approved"
+   },
+   {
+      "genres": ["Drama"],
+      "runtime": [
+         "129 min",
+         "120 min (TV)"
+      ],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Mr. Smith Goes to Washington",
+      "imdb_url": "http://www.imdb.com/title/tt0031679/",
+      "rating_count": 51837,
+      "also_known_as": ["Shimisi xiansheng dao huashengdun"],
+      "imdb_id": "tt0031679",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/031/679.jpg!cover?_upt=4d7641101384809918",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMjAwMzU5ODkwNF5BMl5BanBnXkFtZTcwNTg4Mjk3OA@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "A naive man is appointed to fill a vacancy in the US Senate. His plans promptly collide with political corruption, but he doesn't back down.",
+      "release_date": 19391019,
+      "year": 1939,
+      "writers": [
+         "Sidney Buchman",
+         "Lewis R. Foster"
+      ],
+      "actors": [
+         "Jean Arthur",
+         "James Stewart",
+         "Claude Rains",
+         "Edward Arnold",
+         "Guy Kibbee",
+         "Thomas Mitchell",
+         "Eugene Pallette",
+         "Beulah Bondi",
+         "H.B. Warner",
+         "Harry Carey",
+         "Astrid Allwyn",
+         "Ruth Donnelly",
+         "Grant Mitchell",
+         "Porter Hall",
+         "Pierre Watkin"
+      ],
+      "filming_locations": "Columbia/Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA",
+      "rating": 8.3,
+      "language": ["English"],
+      "directors": ["Frank Capra"],
+      "rated": "U"
+   },
+   {
+      "genres": [
+         "Drama",
+         "Western"
+      ],
+      "runtime": ["85 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "High Noon",
+      "imdb_url": "http://www.imdb.com/title/tt0044706/",
+      "rating_count": 53804,
+      "also_known_as": ["A la hora señalada"],
+      "imdb_id": "tt0044706",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/044/706.jpg!cover?_upt=13717b321384809918",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTMyNDA3NjU0Ml5BMl5BanBnXkFtZTcwMjA0NDU3NQ@@._V1_SY317_CR6,0,214,317_.jpg"
+      },
+      "plot_simple": "A marshall, personally compelled to face a returning deadly enemy, finds that his own town refuses to help him.",
+      "release_date": 19520730,
+      "year": 1952,
+      "writers": [
+         "Carl Foreman",
+         "John W. Cunningham"
+      ],
+      "actors": [
+         "Gary Cooper",
+         "Thomas Mitchell",
+         "Lloyd Bridges",
+         "Katy Jurado",
+         "Grace Kelly",
+         "Otto Kruger",
+         "Lon Chaney Jr.",
+         "Harry Morgan",
+         "Ian MacDonald",
+         "Eve McVeagh",
+         "Morgan Farley",
+         "Harry Shannon",
+         "Lee Van Cleef",
+         "Robert J. Wilke",
+         "Sheb Wooley"
+      ],
+      "filming_locations": "Brooks Ranch, Jamestown, California, USA",
+      "rating": 8.2,
+      "language": [
+         "English",
+         "Spanish"
+      ],
+      "directors": ["Fred Zinnemann"],
+      "rated": "PG"
+   },
+   {
+      "genres": ["Drama"],
+      "runtime": ["138 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "All About Eve",
+      "imdb_url": "http://www.imdb.com/title/tt0042192/",
+      "rating_count": 54667,
+      "also_known_as": ["Best Performance"],
+      "imdb_id": "tt0042192",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/042/192.jpg!cover?_upt=2878a1de1384809918",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMjE4MDg3ODUzMF5BMl5BanBnXkFtZTcwODY1ODg3OA@@._V1_SY317_CR5,0,214,317_.jpg"
+      },
+      "plot_simple": "An ingenue insinuates herself in to the company of an established but aging stage actress and her circle of theater friends.",
+      "release_date": 19510115,
+      "year": 1950,
+      "writers": ["Joseph L. Mankiewicz"],
+      "actors": [
+         "Bette Davis",
+         "Anne Baxter",
+         "George Sanders",
+         "Celeste Holm",
+         "Gary Merrill",
+         "Hugh Marlowe",
+         "Gregory Ratoff",
+         "Barbara Bates",
+         "Marilyn Monroe",
+         "Thelma Ritter",
+         "Walter Hampden",
+         "Randy Stuart",
+         "Craig Hill",
+         "Leland Harris",
+         "Barbara White"
+      ],
+      "filming_locations": "21 Club - 21 West 52nd Street, Manhattan, New York City, New York, USA",
+      "rating": 8.4,
+      "language": [
+         "English",
+         "French"
+      ],
+      "directors": ["Joseph L. Mankiewicz"],
+      "rated": "Approved"
+   },
+   {
+      "genres": [
+         "Crime",
+         "Drama",
+         "Film-Noir",
+         "Thriller"
+      ],
+      "runtime": [
+         "107 min",
+         "90 min (Ontario)"
+      ],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Double Indemnity",
+      "imdb_url": "http://www.imdb.com/title/tt0036775/",
+      "rating_count": 62894,
+      "also_known_as": ["Frau ohne Gewissen"],
+      "imdb_id": "tt0036775",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/036/775.jpg!cover?_upt=c12bb6991384809918",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTUyNzM2NzM2NV5BMl5BanBnXkFtZTcwNzYxNDg3OA@@._V1_SY317_CR12,0,214,317_.jpg"
+      },
+      "plot_simple": "An insurance rep lets himself be talked into a murder/insurance fraud scheme that arouses an insurance investigator's suspicions.",
+      "release_date": 19440424,
+      "year": 1944,
+      "writers": [
+         "Billy Wilder",
+         "Raymond Chandler"
+      ],
+      "actors": [
+         "Fred MacMurray",
+         "Barbara Stanwyck",
+         "Edward G. Robinson",
+         "Porter Hall",
+         "Jean Heather",
+         "Tom Powers",
+         "Byron Barr",
+         "Richard Gaines",
+         "Fortunio Bonanova",
+         "John Philliber"
+      ],
+      "filming_locations": "1825 N. Kingsley Drive, Hollywood, Los Angeles, California, USA",
+      "rating": 8.5,
+      "language": ["English"],
+      "directors": ["Billy Wilder"],
+      "rated": "Approved"
+   },
+   {
+      "genres": [
+         "Drama",
+         "War"
+      ],
+      "runtime": [
+         "153 min",
+         "202 min (Redux)"
+      ],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Apocalypse Now",
+      "imdb_url": "http://www.imdb.com/title/tt0078788/",
+      "rating_count": 296375,
+      "also_known_as": ["Apocalypse Now: The Complete Dossier"],
+      "imdb_id": "tt0078788",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/078/788.jpg!cover?_upt=60b9ba011384809918",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTcyMzQ5NDM4OV5BMl5BanBnXkFtZTcwODUwNDg3OA@@._V1_SY317_CR12,0,214,317_.jpg"
+      },
+      "plot_simple": "During the U.S.-Viet Nam War, Captain Willard is sent on a dangerous mission into Cambodia to assassinate a renegade colonel who has set himself up as a god among a local tribe.",
+      "release_date": 19790815,
+      "year": 1979,
+      "writers": [
+         "John Milius",
+         "Francis Ford Coppola"
+      ],
+      "actors": [
+         "Marlon Brando",
+         "Martin Sheen",
+         "Robert Duvall",
+         "Frederic Forrest",
+         "Sam Bottoms",
+         "Laurence Fishburne",
+         "Albert Hall",
+         "Harrison Ford",
+         "Dennis Hopper",
+         "G.D. Spradlin",
+         "Jerry Ziesmer",
+         "Scott Glenn",
+         "Bo Byers",
+         "James Keane",
+         "Kerry Rossall"
+      ],
+      "filming_locations": "Philippines",
+      "rating": 8.6,
+      "language": [
+         "English",
+         "French",
+         "Vietnamese",
+         "Khmer"
+      ],
+      "directors": ["Francis Ford Coppola"],
+      "rated": "R"
+   }
+]

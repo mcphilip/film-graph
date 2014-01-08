@@ -1,0 +1,492 @@
+[
+   {
+      "genres": [
+         "Crime",
+         "Drama",
+         "Film-Noir",
+         "Mystery"
+      ],
+      "runtime": ["100 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "El halcón maltés\n            \"The Maltese Falcon\"",
+      "imdb_url": "http://www.imdb.com/title/tt0033870/",
+      "rating_count": 76929,
+      "also_known_as": ["El halcón maltés"],
+      "imdb_id": "tt0033870",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/033/870.jpg!cover?_upt=1ddc6d8d1384809918",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTMxMjE1ODE1N15BMl5BanBnXkFtZTcwMzA4ODQ0Mg@@._V1_SY317_CR9,0,214,317_.jpg"
+      },
+      "plot_simple": "A private detective takes on a case that involves him with three eccentric criminals, a gorgeous liar, and their quest for a priceless statuette.",
+      "release_date": 19420521,
+      "writers": [
+         "John Huston",
+         "Dashiell Hammett"
+      ],
+      "year": 1941,
+      "actors": [
+         "Humphrey Bogart",
+         "Mary Astor",
+         "Gladys George",
+         "Peter Lorre",
+         "Barton MacLane",
+         "Lee Patrick",
+         "Sydney Greenstreet",
+         "Ward Bond",
+         "Jerome Cowan",
+         "Elisha Cook Jr.",
+         "James Burke",
+         "Murray Alper",
+         "John Hamilton"
+      ],
+      "filming_locations": "Bush Street, San Francisco, California, USA",
+      "rating": 8.3,
+      "language": ["English"],
+      "directors": ["John Huston"]
+   },
+   {
+      "genres": [
+         "Crime",
+         "Drama"
+      ],
+      "runtime": ["200 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "O Poderoso Chefão II\n            \"The Godfather: Part II\"",
+      "imdb_url": "http://www.imdb.com/title/tt0071562/",
+      "rating_count": 468711,
+      "also_known_as": ["O Poderoso Chefão II"],
+      "imdb_id": "tt0071562",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/071/562.jpg!cover?_upt=9a1a77c11384809918",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BNDc2NTM3MzU1Nl5BMl5BanBnXkFtZTcwMTA5Mzg3OA@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "The early life and career of Vito Corleone in 1920s New York is portrayed while his son, Michael, expands and tightens his grip on his crime syndicate stretching from Lake Tahoe, Nevada to pre-revolution 1958 Cuba.",
+      "release_date": 19750214,
+      "writers": [
+         "Francis Ford Coppola",
+         "Mario Puzo"
+      ],
+      "year": 1974,
+      "actors": [
+         "Al Pacino",
+         "Robert Duvall",
+         "Diane Keaton",
+         "Robert De Niro",
+         "John Cazale",
+         "Talia Shire",
+         "Lee Strasberg",
+         "Michael V. Gazzo",
+         "G.D. Spradlin",
+         "Richard Bright",
+         "Gastone Moschin",
+         "Tom Rosqui",
+         "Bruno Kirby",
+         "Frank Sivero",
+         "Francesca De Sapio"
+      ],
+      "filming_locations": "6th Street, Manhattan, New York City, New York, USA",
+      "rating": 9,
+      "language": [
+         "English",
+         "Italian",
+         "Spanish",
+         "Latin",
+         "Sicilian"
+      ],
+      "directors": ["Francis Ford Coppola"]
+   },
+   {
+      "genres": ["Drama"],
+      "runtime": ["133 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "One Flew Over the Cuckoo's Nest",
+      "imdb_url": "http://www.imdb.com/title/tt0073486/",
+      "rating_count": 426905,
+      "also_known_as": ["Atrapado sin salida"],
+      "imdb_id": "tt0073486",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/073/486.jpg!cover?_upt=bc8326ad1384809918",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTk5OTA4NTc0NF5BMl5BanBnXkFtZTcwNzI5Mzg3OA@@._V1_SY317_CR12,0,214,317_.jpg"
+      },
+      "plot_simple": "Upon admittance to a mental institution, a brash rebel rallies the patients to take on the oppressive head nurse.",
+      "release_date": 19751121,
+      "writers": [
+         "Lawrence Hauben",
+         "Bo Goldman"
+      ],
+      "year": 1975,
+      "actors": [
+         "Michael Berryman",
+         "Peter Brocco",
+         "Dean R. Brooks",
+         "Alonzo Brown",
+         "Scatman Crothers",
+         "Mwako Cumbuka",
+         "Danny DeVito",
+         "William Duell",
+         "Josip Elic",
+         "Lan Fendors",
+         "Louise Fletcher",
+         "Nathan George",
+         "Ken Kenny",
+         "Mel Lambert",
+         "Sydney Lassick"
+      ],
+      "filming_locations": "Depoe Bay, Oregon, USA",
+      "rating": 8.8,
+      "language": ["English"],
+      "directors": ["Milos Forman"]
+   },
+   {
+      "genres": [
+         "Animation",
+         "Family",
+         "Fantasy",
+         "Musical",
+         "Romance"
+      ],
+      "runtime": ["83 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Snow White and the Seven Dwarfs",
+      "imdb_url": "http://www.imdb.com/title/tt0029583/",
+      "rating_count": 82248,
+      "also_known_as": ["Blancanieves y los siete enanos"],
+      "imdb_id": "tt0029583",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/029/583.jpg!cover?_upt=09cdd2c51384809918",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTQwMzE2Mzc4M15BMl5BanBnXkFtZTcwMTE4NTc1Nw@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "Snow White, pursued by a jealous queen, hides with the Dwarfs; the queen feeds her a poison apple, but Prince Charming awakens her with a kiss.",
+      "release_date": 19380110,
+      "actors": [
+         "Roy Atwell",
+         "Stuart Buchanan",
+         "Adriana Caselotti",
+         "Hall Johnson Choir",
+         "Eddie Collins",
+         "Pinto Colvig",
+         "Marion Darlington",
+         "Billy Gilbert",
+         "Otis Harlan",
+         "Lucille La Verne",
+         "Scotty Mattraw",
+         "Moroni Olsen",
+         "Purv Pullen",
+         "Harry Stockwell"
+      ],
+      "writers": [
+         "Ted Sears",
+         "Richard Creedon"
+      ],
+      "year": 1937,
+      "rating": 7.8,
+      "language": ["English"],
+      "directors": [
+         "William Cottrell",
+         "David Hand"
+      ]
+   },
+   {
+      "genres": [
+         "Comedy",
+         "Romance"
+      ],
+      "runtime": ["93 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Annie Hall",
+      "imdb_url": "http://www.imdb.com/title/tt0075686/",
+      "rating_count": 120329,
+      "also_known_as": ["Anhedonia"],
+      "imdb_id": "tt0075686",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/075/686.jpg!cover?_upt=195f1b801384809918",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTU1NDM2MjkwM15BMl5BanBnXkFtZTcwODU3OTYwNA@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "Neurotic New York comedian Alvy Singer falls in love with the ditsy Annie Hall.",
+      "release_date": 19770420,
+      "year": 1977,
+      "writers": [
+         "Woody Allen",
+         "Marshall Brickman"
+      ],
+      "actors": [
+         "Woody Allen",
+         "Diane Keaton",
+         "Tony Roberts",
+         "Carol Kane",
+         "Paul Simon",
+         "Shelley Duvall",
+         "Janet Margolin",
+         "Colleen Dewhurst",
+         "Christopher Walken",
+         "Donald Symington",
+         "Helen Ludlam",
+         "Mordecai Lawner",
+         "Joan Neuman",
+         "Jonathan Munk",
+         "Ruth Volner"
+      ],
+      "filming_locations": "2nd Avenue, Manhattan, New York City, New York, USA",
+      "rating": 8.2,
+      "language": [
+         "English",
+         "German"
+      ],
+      "directors": ["Woody Allen"],
+      "rated": "PG"
+   },
+   {
+      "genres": [
+         "Adventure",
+         "Drama",
+         "War"
+      ],
+      "runtime": ["161 min"],
+      "type": "M",
+      "country": [
+         "UK",
+         "USA"
+      ],
+      "title": "The Bridge on the River Kwai",
+      "imdb_url": "http://www.imdb.com/title/tt0050212/",
+      "rating_count": 97359,
+      "also_known_as": ["El puente sobre el río Kwai"],
+      "imdb_id": "tt0050212",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/050/212.jpg!cover?_upt=8fba0e9d1384809918",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTc2NzA0NTEwNF5BMl5BanBnXkFtZTcwMzA0MTk3OA@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "After settling his differences with a Japanese PoW camp commander, a British colonel co-operates to oversee his men's construction of a railway bridge for their captors - while oblivious to a plan by the Allies to destroy it.",
+      "release_date": 19571214,
+      "year": 1957,
+      "writers": ["Pierre Boulle"],
+      "actors": [
+         "William Holden",
+         "Alec Guinness",
+         "Jack Hawkins",
+         "Sessue Hayakawa",
+         "James Donald",
+         "Geoffrey Horne",
+         "André Morell",
+         "Peter Williams",
+         "John Boxer",
+         "Percy Herbert",
+         "Harold Goodwin",
+         "Ann Sears",
+         "Heihachirô Ôkawa",
+         "Keiichirô Katsumoto",
+         "M.R.B. Chakrabandhu"
+      ],
+      "filming_locations": "Ambepussa, Sri Lanka",
+      "rating": 8.3,
+      "language": [
+         "English",
+         "Japanese",
+         "Thai"
+      ],
+      "directors": ["David Lean"],
+      "rated": "PG"
+   },
+   {
+      "genres": [
+         "Drama",
+         "Romance",
+         "War"
+      ],
+      "runtime": ["172 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Os Melhores Anos de Nossa Vida\n            \"The Best Years of Our Lives\"",
+      "imdb_url": "http://www.imdb.com/title/tt0036868/",
+      "rating_count": 26445,
+      "also_known_as": ["Os Melhores Anos de Nossa Vida"],
+      "imdb_id": "tt0036868",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/036/868.jpg!cover?_upt=1051243a1384809918",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTk1NTAxNzg3Nl5BMl5BanBnXkFtZTcwNjU4OTQwNw@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "Three WWII veterans return home to small-town America to discover that they and their families have been irreparably changed.",
+      "release_date": 19471003,
+      "writers": [
+         "Robert E. Sherwood",
+         "MacKinlay Kantor"
+      ],
+      "year": 1946,
+      "actors": [
+         "Myrna Loy",
+         "Fredric March",
+         "Dana Andrews",
+         "Teresa Wright",
+         "Virginia Mayo",
+         "Cathy O'Donnell",
+         "Hoagy Carmichael",
+         "Harold Russell",
+         "Gladys George",
+         "Roman Bohnen",
+         "Ray Collins",
+         "Minna Gombell",
+         "Walter Baldwin",
+         "Steve Cochran",
+         "Dorothy Adams"
+      ],
+      "filming_locations": "Walnut Hills High School - 3250 Victory Parkway, Cincinnati, Ohio, USA",
+      "rating": 8.2,
+      "language": ["English"],
+      "directors": ["William Wyler"]
+   },
+   {
+      "genres": [
+         "Action",
+         "Adventure",
+         "Drama",
+         "Western"
+      ],
+      "runtime": ["126 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "The Treasure of the Sierra Madre",
+      "imdb_url": "http://www.imdb.com/title/tt0040897/",
+      "rating_count": 52692,
+      "also_known_as": ["Le trésor de la Sierra Madre"],
+      "imdb_id": "tt0040897",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/040/897.jpg!cover?_upt=f16af3e31384809918",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMjEyMjU0ODM3OV5BMl5BanBnXkFtZTcwNDkyMTUyMg@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "Fred Dobbs and Bob Curtin, two Americans searching for work in Mexico, convince an old prospector to help them mine for gold in the Sierra Madre Mountains.",
+      "release_date": 19480124,
+      "writers": [
+         "John Huston",
+         "B. Traven"
+      ],
+      "year": 1948,
+      "actors": [
+         "Humphrey Bogart",
+         "Walter Huston",
+         "Tim Holt",
+         "Bruce Bennett",
+         "Barton MacLane",
+         "Alfonso Bedoya",
+         "Arturo Soto Rangel",
+         "Manuel Dondé",
+         "José Torvay",
+         "Margarito Luna"
+      ],
+      "filming_locations": "Acapulco, Guerrero, Mexico",
+      "rating": 8.4,
+      "language": [
+         "English",
+         "Spanish"
+      ],
+      "directors": ["John Huston"]
+   },
+   {
+      "genres": [
+         "Comedy",
+         "Sci-Fi",
+         "War"
+      ],
+      "runtime": ["95 min"],
+      "type": "M",
+      "country": [
+         "USA",
+         "UK"
+      ],
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "imdb_url": "http://www.imdb.com/title/tt0057012/",
+      "rating_count": 238276,
+      "also_known_as": ["Dr. Strangelove"],
+      "imdb_id": "tt0057012",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/057/012.jpg!cover?_upt=d339bed31384809918",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTU2ODM2NTkxNF5BMl5BanBnXkFtZTcwOTMwMzU3Mg@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "An insane general starts a process to nuclear holocaust that a war room of politicians and generals frantically try to stop.",
+      "release_date": 19640129,
+      "year": 1964,
+      "writers": [
+         "Stanley Kubrick",
+         "Terry Southern"
+      ],
+      "actors": [
+         "Peter Sellers",
+         "George C. Scott",
+         "Sterling Hayden",
+         "Keenan Wynn",
+         "Slim Pickens",
+         "Peter Bull",
+         "James Earl Jones",
+         "Tracy Reed",
+         "Jack Creley",
+         "Frank Berry",
+         "Robert O'Neil",
+         "Glenn Beck",
+         "Roy Stephens",
+         "Shane Rimmer",
+         "Hal Galili"
+      ],
+      "filming_locations": "Arctic",
+      "rating": 8.6,
+      "language": [
+         "English",
+         "Russian"
+      ],
+      "directors": ["Stanley Kubrick"],
+      "rated": "PG"
+   },
+   {
+      "genres": [
+         "Biography",
+         "Drama",
+         "Family",
+         "Musical",
+         "Romance"
+      ],
+      "runtime": ["174 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "The Sound of Music",
+      "imdb_url": "http://www.imdb.com/title/tt0059742/",
+      "rating_count": 95051,
+      "also_known_as": ["Yin Yue Zhi Sheng"],
+      "imdb_id": "tt0059742",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/059/742.jpg!cover?_upt=045142e81384809918",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTY0MzA3MDk2M15BMl5BanBnXkFtZTcwODg4MzEzMQ@@._V1_SY317_CR5,0,214,317_.jpg"
+      },
+      "plot_simple": "A woman leaves an Austrian convent to become a governess to the children of a Naval officer widower.",
+      "release_date": 19650329,
+      "year": 1965,
+      "writers": [
+         "Howard Lindsay",
+         "Russel Crouse"
+      ],
+      "actors": [
+         "Julie Andrews",
+         "Christopher Plummer",
+         "Eleanor Parker",
+         "Richard Haydn",
+         "Peggy Wood",
+         "Charmian Carr",
+         "Heather Menzies-Urich",
+         "Nicholas Hammond",
+         "Duane Chase",
+         "Angela Cartwright",
+         "Debbie Turner",
+         "Kym Karath",
+         "Anna Lee",
+         "Portia Nelson",
+         "Ben Wright"
+      ],
+      "filming_locations": "Schloss Leopoldskron, Salzburg, Salzburg, Austria",
+      "rating": 7.9,
+      "language": ["English"],
+      "directors": ["Robert Wise"],
+      "rated": "G"
+   }
+]

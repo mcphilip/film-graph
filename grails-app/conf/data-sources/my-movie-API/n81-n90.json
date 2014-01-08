@@ -1,0 +1,468 @@
+[
+   {
+      "genres": [
+         "Action",
+         "Adventure",
+         "Biography",
+         "Drama",
+         "History",
+         "Romance",
+         "Thriller"
+      ],
+      "runtime": [
+         "184 min (premiere)",
+         "187 min (1968 re-release)",
+         "161 min (1967 re-release)",
+         "197 min (1991 restored)",
+         "184 min (theatrical)"
+      ],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Spartacus",
+      "imdb_url": "http://www.imdb.com/title/tt0054331/",
+      "rating_count": 74341,
+      "also_known_as": ["Espartaco"],
+      "imdb_id": "tt0054331",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/054/331.jpg!cover?_upt=4b066ec91384809920",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMjE4ODMwOTI5M15BMl5BanBnXkFtZTYwOTIxMzY5._V1_SY317_CR5,0,214,317_.jpg"
+      },
+      "plot_simple": "The slave Spartacus leads a violent revolt against the decadent Roman Republic.",
+      "release_date": 19601216,
+      "year": 1960,
+      "writers": [
+         "Dalton Trumbo",
+         "Howard Fast"
+      ],
+      "actors": [
+         "Kirk Douglas",
+         "Laurence Olivier",
+         "Jean Simmons",
+         "Charles Laughton",
+         "Peter Ustinov",
+         "John Gavin",
+         "Nina Foch",
+         "John Ireland",
+         "Herbert Lom",
+         "John Dall",
+         "Charles McGraw",
+         "Joanna Barnes",
+         "Harold J. Stone",
+         "Woody Strode",
+         "Peter Brocco"
+      ],
+      "filming_locations": "Alcalá de Henares, Madrid, Spain",
+      "rating": 8,
+      "language": ["English"],
+      "directors": ["Stanley Kubrick"],
+      "rated": "12"
+   },
+   {
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "runtime": ["94 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Aurora\n            \"Sunrise: A Song of Two Humans\"",
+      "imdb_url": "http://www.imdb.com/title/tt0018455/",
+      "rating_count": 19294,
+      "also_known_as": ["Aurora"],
+      "imdb_id": "tt0018455",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/018/455.jpg!cover?_upt=0183bf551384809920",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTU1ODIyMDQ5N15BMl5BanBnXkFtZTcwMDI2MDEyMQ@@._V1_SY317_CR8,0,214,317_.jpg"
+      },
+      "plot_simple": "A married farmer falls under the spell of a slatternly woman from the city, who tries to convince him to drown his wife.",
+      "release_date": 19280331,
+      "actors": [
+         "George O'Brien",
+         "Janet Gaynor",
+         "Margaret Livingston",
+         "Bodil Rosing",
+         "J. Farrell MacDonald",
+         "Ralph Sipperly",
+         "Jane Winton",
+         "Arthur Housman",
+         "Eddie Boland"
+      ],
+      "writers": [
+         "Carl Mayer",
+         "Hermann Sudermann"
+      ],
+      "year": 1927,
+      "filming_locations": "Big Bear Lake, Big Bear Valley, San Bernardino National Forest, California, USA",
+      "rating": 8.3,
+      "directors": ["F.W. Murnau"]
+   },
+   {
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "runtime": ["194 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Titanic",
+      "imdb_url": "http://www.imdb.com/title/tt0120338/",
+      "rating_count": 493949,
+      "also_known_as": ["Tai tan ni ke hao"],
+      "imdb_id": "tt0120338",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/120/338.jpg!cover?_upt=6000b6c91384809920",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMjExNzM0NDM0N15BMl5BanBnXkFtZTcwMzkxOTUwNw@@._V1_SY317_CR0,0,214,317_.jpg"
+      },
+      "plot_simple": "A seventeen-year-old aristocrat, expecting to be married to a rich claimant by her mother, falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+      "release_date": 19980403,
+      "year": 1997,
+      "writers": ["James Cameron"],
+      "actors": [
+         "Leonardo DiCaprio",
+         "Kate Winslet",
+         "Billy Zane",
+         "Kathy Bates",
+         "Frances Fisher",
+         "Gloria Stuart",
+         "Bill Paxton",
+         "Bernard Hill",
+         "David Warner",
+         "Victor Garber",
+         "Jonathan Hyde",
+         "Suzy Amis",
+         "Lewis Abernathy",
+         "Nicholas Cascone",
+         "Anatoly M. Sagalevitch"
+      ],
+      "filming_locations": "Santa Clarita, California, USA",
+      "rating": 7.6,
+      "language": [
+         "English",
+         "French",
+         "German",
+         "Swedish",
+         "Italian",
+         "Russian"
+      ],
+      "directors": ["James Cameron"],
+      "rated": "PG-13"
+   },
+   {
+      "genres": ["Drama"],
+      "runtime": ["95 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Easy Rider",
+      "imdb_url": "http://www.imdb.com/title/tt0064276/",
+      "rating_count": 55319,
+      "also_known_as": ["The Loners"],
+      "imdb_id": "tt0064276",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/064/276.jpg!cover?_upt=a8f8e3751384809920",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMjAyNzkyODk1MF5BMl5BanBnXkFtZTcwMTk1NjYyMQ@@._V1_SY317_CR5,0,214,317_.jpg"
+      },
+      "plot_simple": "Two counterculture bikers travel from Los Angeles to New Orleans in search of America.",
+      "release_date": 19690626,
+      "year": 1969,
+      "writers": [
+         "Peter Fonda",
+         "Dennis Hopper"
+      ],
+      "actors": [
+         "Peter Fonda",
+         "Dennis Hopper",
+         "Antonio Mendoza",
+         "Phil Spector",
+         "Mac Mashourian",
+         "Warren Finnerty",
+         "Tita Colorado",
+         "Luke Askew",
+         "Luana Anders",
+         "Sabrina Scharf",
+         "Sandy Brown Wyeth",
+         "Robert Walker Jr.",
+         "Robert Ball",
+         "Carmen Phillips",
+         "Ellie Wood Walker"
+      ],
+      "filming_locations": "157 Bridge Street, Las Vegas, New Mexico, USA",
+      "rating": 7.3,
+      "language": [
+         "English",
+         "Spanish"
+      ],
+      "directors": ["Dennis Hopper"],
+      "rated": "R"
+   },
+   {
+      "genres": [
+         "Comedy",
+         "Music",
+         "Musical"
+      ],
+      "runtime": [
+         "96 min",
+         "91 min (1948 re-release)"
+      ],
+      "type": "M",
+      "country": ["USA"],
+      "title": "A Night at the Opera",
+      "imdb_url": "http://www.imdb.com/title/tt0026778/",
+      "rating_count": 19240,
+      "also_known_as": ["Uma Noite na Ópera"],
+      "imdb_id": "tt0026778",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/026/778.jpg!cover?_upt=2e4035001384809920",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMzkxNjA5OTA0Nl5BMl5BanBnXkFtZTcwMTYzMDU2Mw@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "A sly business manager and two wacky friends of two opera singers help them achieve success while humiliating their stuffy and snobbish enemies.",
+      "release_date": 19351115,
+      "writers": [
+         "George S. Kaufman",
+         "Morrie Ryskind"
+      ],
+      "year": 1935,
+      "actors": [
+         "Groucho Marx",
+         "Chico Marx",
+         "Harpo Marx",
+         "Kitty Carlisle",
+         "Allan Jones",
+         "Walter Woolf King",
+         "Sig Ruman",
+         "Margaret Dumont",
+         "Edward Keane",
+         "Robert Emmett O'Connor"
+      ],
+      "filming_locations": "Los Angeles, California, USA",
+      "rating": 8,
+      "language": [
+         "English",
+         "Italian"
+      ],
+      "directors": ["Sam Wood"]
+   },
+   {
+      "genres": [
+         "Action",
+         "Drama",
+         "War"
+      ],
+      "runtime": ["120 min"],
+      "type": "M",
+      "country": [
+         "UK",
+         "USA"
+      ],
+      "title": "Platoon",
+      "imdb_url": "http://www.imdb.com/title/tt0091763/",
+      "rating_count": 192767,
+      "also_known_as": ["The Platoon"],
+      "imdb_id": "tt0091763",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/091/763.jpg!cover?_upt=848a76401384809920",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BNTU3NzY4ODY5MF5BMl5BanBnXkFtZTcwOTkzNzE1NA@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "A young recruit in Vietnam faces a moral crisis when confronted with the horrors of war and the duality of man.",
+      "release_date": 19861224,
+      "year": 1986,
+      "writers": ["Oliver Stone"],
+      "actors": [
+         "Keith David",
+         "Forest Whitaker",
+         "Francesco Quinn",
+         "Kevin Dillon",
+         "John C. McGinley",
+         "Reggie Johnson",
+         "Mark Moses",
+         "Corey Glover",
+         "Johnny Depp",
+         "Chris Pedersen",
+         "Bob Orwig",
+         "Corkey Ford",
+         "David Neidorf",
+         "Tom Berenger",
+         "Willem Dafoe"
+      ],
+      "filming_locations": "Luzon, Philippines",
+      "rating": 8.2,
+      "language": [
+         "English",
+         "Vietnamese"
+      ],
+      "directors": ["Oliver Stone"],
+      "rated": "R"
+   },
+   {
+      "genres": ["Drama"],
+      "runtime": ["96 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "12 Angry Men",
+      "imdb_url": "http://www.imdb.com/title/tt0050083/",
+      "rating_count": 252324,
+      "also_known_as": ["Twelve Angry Men"],
+      "imdb_id": "tt0050083",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/050/083.jpg!cover?_upt=c150c2631384809920",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BODQwOTc5MDM2N15BMl5BanBnXkFtZTcwODQxNTEzNA@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "A dissenting juror in a murder trial slowly manages to convince the others that the case is not as obviously clear as it seemed in court.",
+      "release_date": 19570400,
+      "year": 1957,
+      "writers": ["Reginald Rose"],
+      "actors": [
+         "Martin Balsam",
+         "John Fiedler",
+         "Lee J. Cobb",
+         "E.G. Marshall",
+         "Jack Klugman",
+         "Edward Binns",
+         "Jack Warden",
+         "Henry Fonda",
+         "Joseph Sweeney",
+         "Ed Begley",
+         "George Voskovec",
+         "Robert Webber"
+      ],
+      "filming_locations": "New York County Courthouse - 60 Centre Street, New York City, New York, USA",
+      "rating": 8.9,
+      "language": ["English"],
+      "directors": ["Sidney Lumet"],
+      "rated": "Approved"
+   },
+   {
+      "genres": [
+         "Comedy",
+         "Romance"
+      ],
+      "runtime": ["102 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Bringing Up Baby",
+      "imdb_url": "http://www.imdb.com/title/tt0029947/",
+      "rating_count": 33884,
+      "also_known_as": ["Leoparden küßt man nicht"],
+      "imdb_id": "tt0029947",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/029/947.jpg!cover?_upt=edf42c941384809920",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BNzI2ODA0NTUwOF5BMl5BanBnXkFtZTcwODE3Njk3OA@@._V1_SY317_CR8,0,214,317_.jpg"
+      },
+      "plot_simple": "While trying to secure a $1 million donation for his museum, a befuddled paleontologist is pursued by a flighty and often irritating heiress and her pet leopard \"Baby.\"",
+      "release_date": 19380218,
+      "year": 1938,
+      "writers": [
+         "Dudley Nichols",
+         "Hagar Wilde"
+      ],
+      "actors": [
+         "Katharine Hepburn",
+         "Cary Grant",
+         "Charles Ruggles",
+         "Walter Catlett",
+         "Barry Fitzgerald",
+         "May Robson",
+         "Fritz Feld",
+         "Leona Roberts",
+         "George Irving",
+         "Tala Birell",
+         "Virginia Walker",
+         "John Kelly"
+      ],
+      "filming_locations": "Arthur Ranch, Malibu, California, USA",
+      "rating": 8,
+      "language": ["English"],
+      "directors": ["Howard Hawks"],
+      "rated": "Approved"
+   },
+   {
+      "genres": [
+         "Drama",
+         "Mystery",
+         "Thriller"
+      ],
+      "runtime": ["107 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "The Sixth Sense",
+      "imdb_url": "http://www.imdb.com/title/tt0167404/",
+      "rating_count": 454720,
+      "also_known_as": ["Le sixième sens"],
+      "imdb_id": "tt0167404",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/167/404.jpg!cover?_upt=fade40511384809920",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTc2MTQxNDI5MV5BMl5BanBnXkFtZTYwNjkzMDc4._V1_SX214_.jpg"
+      },
+      "plot_simple": "A boy who communicates with spirits that don't know they're dead seeks the help of a disheartened child psychologist.",
+      "release_date": 19990806,
+      "writers": ["M. Night Shyamalan"],
+      "year": 1999,
+      "actors": [
+         "Bruce Willis",
+         "Haley Joel Osment",
+         "Toni Collette",
+         "Olivia Williams",
+         "Trevor Morgan",
+         "Donnie Wahlberg",
+         "Peter Anthony Tambakis",
+         "Jeffrey Zubernis",
+         "Bruce Norris",
+         "Glenn Fitzgerald",
+         "Greg Wood",
+         "Mischa Barton",
+         "Angelica Page",
+         "Lisa Summerour",
+         "Firdous Bamji"
+      ],
+      "filming_locations": "Blue Bell, Pennsylvania, USA",
+      "rating": 8.2,
+      "language": [
+         "English",
+         "Latin",
+         "Spanish"
+      ],
+      "directors": ["M. Night Shyamalan"]
+   },
+   {
+      "genres": [
+         "Comedy",
+         "Musical",
+         "Romance"
+      ],
+      "runtime": ["103 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Swing Time",
+      "imdb_url": "http://www.imdb.com/title/tt0028333/",
+      "rating_count": 6456,
+      "also_known_as": ["Ritmo loco"],
+      "imdb_id": "tt0028333",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/028/333.jpg!cover?_upt=eb0a07c31384809920",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTIzMTQwNjg3MV5BMl5BanBnXkFtZTcwNzUxMTcyMQ@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "A performer and gambler travels to New York City to raise the $25,000 he needs to marry his fiancée, only to become entangled with a beautiful aspiring dancer.",
+      "release_date": 19361012,
+      "writers": [
+         "Howard Lindsay",
+         "Allan Scott"
+      ],
+      "year": 1936,
+      "actors": [
+         "Fred Astaire",
+         "Ginger Rogers",
+         "Victor Moore",
+         "Helen Broderick",
+         "Eric Blore",
+         "Betty Furness",
+         "Georges Metaxa"
+      ],
+      "filming_locations": "Southern Pacific Central Station-400 S. Alameda Street, Downtown, Los Angeles, California, USA",
+      "rating": 7.6,
+      "language": [
+         "English",
+         "French"
+      ],
+      "directors": ["George Stevens"]
+   }
+]

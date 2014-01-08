@@ -1,0 +1,485 @@
+[
+   {
+      "genres": [
+         "Crime",
+         "Drama",
+         "Musical",
+         "Romance",
+         "Thriller"
+      ],
+      "runtime": ["152 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "West Side Story",
+      "imdb_url": "http://www.imdb.com/title/tt0055614/",
+      "rating_count": 49735,
+      "also_known_as": ["Amor sin barreras"],
+      "imdb_id": "tt0055614",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/055/614.jpg!cover?_upt=957bfb001384809919",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTM0NDAxOTI5MF5BMl5BanBnXkFtZTcwNjI4Mjg3NA@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "Musical about two youngsters from rival NYC gangs who fall in love.",
+      "release_date": 19611223,
+      "year": 1961,
+      "writers": [
+         "Ernest Lehman",
+         "Arthur Laurents"
+      ],
+      "actors": [
+         "Natalie Wood",
+         "Richard Beymer",
+         "Russ Tamblyn",
+         "Rita Moreno",
+         "George Chakiris",
+         "Simon Oakland",
+         "Ned Glass",
+         "William Bramley",
+         "Tucker Smith",
+         "Tony Mordente",
+         "David Winters",
+         "Eliot Feld",
+         "Bert Michaels",
+         "David Bean",
+         "Robert Banas"
+      ],
+      "filming_locations": "110th Street, Manhattan, New York City, New York, USA",
+      "rating": 7.6,
+      "language": [
+         "English",
+         "Spanish"
+      ],
+      "directors": [
+         "Jerome Robbins",
+         "Robert Wise"
+      ],
+      "rated": "Approved"
+   },
+   {
+      "genres": [
+         "Crime",
+         "Drama"
+      ],
+      "runtime": [
+         "113 min",
+         "110 min (cut)"
+      ],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Taxi Driver",
+      "imdb_url": "http://www.imdb.com/title/tt0075314/",
+      "rating_count": 307072,
+      "also_known_as": ["Taksist"],
+      "imdb_id": "tt0075314",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/075/314.jpg!cover?_upt=bf5ddf001384809919",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTQ1Nzg3MDQwN15BMl5BanBnXkFtZTcwNDE2NDU2MQ@@._V1_SY317_CR9,0,214,317_.jpg"
+      },
+      "plot_simple": "A mentally unstable Viet Nam war veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feeds his urge for violent action, attempting to save a preadolescent prostitute in the process.",
+      "release_date": 19760208,
+      "writers": ["Paul Schrader"],
+      "year": 1976,
+      "actors": [
+         "Diahnne Abbott",
+         "Frank Adu",
+         "Victor Argo",
+         "Gino Ardito",
+         "Garth Avery",
+         "Peter Boyle",
+         "Albert Brooks",
+         "Harry Cohn",
+         "Copper Cunningham",
+         "Robert De Niro",
+         "Brenda Dickson",
+         "Harry Fischler",
+         "Jodie Foster",
+         "Nat Grant",
+         "Leonard Harris"
+      ],
+      "filming_locations": "Manhattan, New York City, New York, USA",
+      "rating": 8.5,
+      "language": [
+         "English",
+         "Spanish"
+      ],
+      "directors": ["Martin Scorsese"]
+   },
+   {
+      "genres": [
+         "Drama",
+         "War"
+      ],
+      "runtime": ["182 min"],
+      "type": "M",
+      "country": [
+         "UK",
+         "USA"
+      ],
+      "title": "The Deer Hunter",
+      "imdb_url": "http://www.imdb.com/title/tt0077416/",
+      "rating_count": 154231,
+      "also_known_as": ["Die durch die Hölle gehen"],
+      "imdb_id": "tt0077416",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/077/416.jpg!cover?_upt=f8725d611384809919",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTYzMDM5MjMyN15BMl5BanBnXkFtZTcwNzcyMTEzMQ@@._V1_SY317_CR6,0,214,317_.jpg"
+      },
+      "plot_simple": "An in-depth examination of the way that the Vietnam war affects the lives of people in a small industrial town in the USA.",
+      "release_date": 19790223,
+      "writers": [
+         "Michael Cimino",
+         "Deric Washburn"
+      ],
+      "year": 1978,
+      "actors": [
+         "Robert De Niro",
+         "John Cazale",
+         "John Savage",
+         "Christopher Walken",
+         "Meryl Streep",
+         "George Dzundza",
+         "Chuck Aspegren",
+         "Shirley Stoler",
+         "Rutanya Alda",
+         "Pierre Segui",
+         "Mady Kaplan",
+         "Amy Wright",
+         "Mary Ann Haenel",
+         "Richard Kuss",
+         "Joe Grifasi"
+      ],
+      "filming_locations": "993 N. 7th Street, Steubenville, Ohio, USA",
+      "rating": 8.2,
+      "language": [
+         "English",
+         "Russian",
+         "Vietnamese",
+         "French"
+      ],
+      "directors": ["Michael Cimino"]
+   },
+   {
+      "genres": [
+         "Comedy",
+         "War",
+         "Drama"
+      ],
+      "runtime": [
+         "116 min",
+         "112 min (PG)"
+      ],
+      "type": "M",
+      "country": ["USA"],
+      "title": "MASH",
+      "imdb_url": "http://www.imdb.com/title/tt0066026/",
+      "rating_count": 41302,
+      "also_known_as": ["M*A*S*H"],
+      "imdb_id": "tt0066026",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/066/026.jpg!cover?_upt=b5a36f1d1384809919",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTIzMTYxMDUzNl5BMl5BanBnXkFtZTcwMTk0OTkxMQ@@._V1_SY317_CR2,0,214,317_.jpg"
+      },
+      "plot_simple": "The staff of a Korean War field hospital use humor and hijinks to keep their sanity in the face of the horror of war.",
+      "release_date": 19700300,
+      "year": 1970,
+      "writers": [
+         "Richard Hooker",
+         "Ring Lardner Jr."
+      ],
+      "actors": [
+         "Donald Sutherland",
+         "Elliott Gould",
+         "Tom Skerritt",
+         "Sally Kellerman",
+         "Robert Duvall",
+         "Roger Bowen",
+         "Rene Auberjonois",
+         "David Arkin",
+         "Jo Ann Pflug",
+         "Gary Burghoff",
+         "Fred Williamson",
+         "Michael Murphy",
+         "Indus Arthur",
+         "Ken Prymus",
+         "Bobby Troup"
+      ],
+      "filming_locations": "Griffith Park - 4730 Crystal Springs Drive, Los Angeles, California, USA",
+      "rating": 7.6,
+      "language": [
+         "English",
+         "Japanese",
+         "Korean"
+      ],
+      "directors": ["Robert Altman"],
+      "rated": "R"
+   },
+   {
+      "genres": [
+         "Action",
+         "Adventure",
+         "Crime",
+         "Mystery",
+         "Thriller"
+      ],
+      "runtime": ["136 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "North by Northwest",
+      "imdb_url": "http://www.imdb.com/title/tt0053125/",
+      "rating_count": 147915,
+      "also_known_as": ["Alfred Hitchcock's North by Northwest"],
+      "imdb_id": "tt0053125",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/053/125.jpg!cover?_upt=839772f61384809919",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTc1MjczNTgxM15BMl5BanBnXkFtZTcwOTYwNDg3OA@@._V1_SY317_CR12,0,214,317_.jpg"
+      },
+      "plot_simple": "A hapless New York advertising executive is mistaken for a government agent by a group of foreign spies, and is pursued across the country while he looks for a way to survive.",
+      "release_date": 19590926,
+      "year": 1959,
+      "writers": ["Ernest Lehman"],
+      "actors": [
+         "Cary Grant",
+         "Eva Marie Saint",
+         "James Mason",
+         "Jessie Royce Landis",
+         "Leo G. Carroll",
+         "Josephine Hutchinson",
+         "Philip Ober",
+         "Martin Landau",
+         "Adam Williams",
+         "Edward Platt",
+         "Robert Ellenstein",
+         "Les Tremayne",
+         "Philip Coolidge",
+         "Patrick McVey",
+         "Edward Binns"
+      ],
+      "filming_locations": "Bakersfield, California, USA",
+      "rating": 8.5,
+      "language": ["English"],
+      "directors": ["Alfred Hitchcock"],
+      "rated": "Approved"
+   },
+   {
+      "genres": [
+         "Adventure",
+         "Horror",
+         "Thriller"
+      ],
+      "runtime": [
+         "124 min",
+         "130 min (TV)"
+      ],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Jaws",
+      "imdb_url": "http://www.imdb.com/title/tt0073195/",
+      "rating_count": 255227,
+      "also_known_as": ["Tiburón"],
+      "imdb_id": "tt0073195",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/073/195.jpg!cover?_upt=9f3952101384809919",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BOTUwMzY4NzI4Nl5BMl5BanBnXkFtZTcwMDgzNjk3OA@@._V1_SY317_CR12,0,214,317_.jpg"
+      },
+      "plot_simple": "When a gigantic great white shark begins to menace the small island community of Amity, a police chief, a marine scientist and grizzled fisherman set out to stop it.",
+      "release_date": 19750620,
+      "writers": [
+         "Peter Benchley",
+         "Carl Gottlieb"
+      ],
+      "year": 1975,
+      "actors": [
+         "Roy Scheider",
+         "Robert Shaw",
+         "Richard Dreyfuss",
+         "Lorraine Gary",
+         "Murray Hamilton",
+         "Carl Gottlieb",
+         "Jeffrey Kramer",
+         "Susan Backlinie",
+         "Jonathan Filley",
+         "Ted Grossman",
+         "Chris Rebello",
+         "Jay Mello",
+         "Lee Fierro",
+         "Jeffrey Voorhees",
+         "Craig Kingsbury"
+      ],
+      "filming_locations": "Martha's Vineyard, Massachusetts, USA",
+      "rating": 8.2,
+      "language": ["English"],
+      "directors": ["Steven Spielberg"]
+   },
+   {
+      "genres": [
+         "Drama",
+         "Sport"
+      ],
+      "runtime": ["119 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Rocky",
+      "imdb_url": "http://www.imdb.com/title/tt0075148/",
+      "rating_count": 210092,
+      "also_known_as": ["Rocky - Um Lutador"],
+      "imdb_id": "tt0075148",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/075/148.jpg!cover?_upt=891efc3e1384809919",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTcwMTQ3NTMyNA@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "A small-time boxer gets a supremely rare chance to fight the heavy-weight champion in a bout in which he strives to go the distance for his self-respect.",
+      "release_date": 19761203,
+      "year": 1976,
+      "writers": ["Sylvester Stallone"],
+      "actors": [
+         "Sylvester Stallone",
+         "Talia Shire",
+         "Burt Young",
+         "Carl Weathers",
+         "Burgess Meredith",
+         "Thayer David",
+         "Joe Spinell",
+         "Jimmy Gambina",
+         "Bill Baldwin",
+         "Al Silvani",
+         "George Memmoli",
+         "Jodi Letizia",
+         "Diana Lewis",
+         "George O'Hanlon",
+         "Larry Carroll"
+      ],
+      "filming_locations": "1818 East Tusculum Street, Kensington, North Philadelphia, Pennsylvania, USA",
+      "rating": 8.1,
+      "language": ["English"],
+      "directors": ["John G. Avildsen"],
+      "rated": "PG"
+   },
+   {
+      "genres": [
+         "Adventure",
+         "Comedy",
+         "Family",
+         "Romance",
+         "Western"
+      ],
+      "runtime": [
+         "95 min (original)",
+         "72 min (1942 re-release)",
+         "81 min (edited)"
+      ],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Em Busca do Ouro\n            \"The Gold Rush\"",
+      "imdb_url": "http://www.imdb.com/title/tt0015864/",
+      "rating_count": 39291,
+      "also_known_as": ["Em Busca do Ouro"],
+      "imdb_id": "tt0015864",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/015/864.jpg!cover?_upt=badeee0a1384809919",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BOTE4MzEwMTkzMV5BMl5BanBnXkFtZTcwNTg4NzU2OQ@@._V1_SY317_CR6,0,214,317_.jpg"
+      },
+      "plot_simple": "The Tramp goes the Klondike in search of gold and finds it and more.",
+      "release_date": 19250713,
+      "writers": ["Charles Chaplin"],
+      "year": 1925,
+      "actors": [
+         "Charles Chaplin",
+         "Mack Swain",
+         "Tom Murray",
+         "Henry Bergman",
+         "Malcolm Waite",
+         "Georgia Hale"
+      ],
+      "filming_locations": "California, USA",
+      "rating": 8.2,
+      "language": ["English"],
+      "directors": ["Charles Chaplin"]
+   },
+   {
+      "genres": [
+         "Drama",
+         "Music"
+      ],
+      "runtime": ["159 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Nashville",
+      "imdb_url": "http://www.imdb.com/title/tt0073440/",
+      "rating_count": 12605,
+      "also_known_as": ["Nashville, i polis ton ekplixeon"],
+      "imdb_id": "tt0073440",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/073/440.jpg!cover?_upt=e5a2eeda1384809919",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMjA2MTUzOTc0OF5BMl5BanBnXkFtZTcwOTU4OTcxMQ@@._V1_SY317_CR7,0,214,317_.jpg"
+      },
+      "plot_simple": "Over the course of a few hectic days, numerous interrelated individuals prepare for a political convention as secrets and lies are surfaced and revealed.",
+      "release_date": 19750921,
+      "year": 1975,
+      "writers": ["Joan Tewkesbury"],
+      "actors": [
+         "David Arkin",
+         "Barbara Baxley",
+         "Ned Beatty",
+         "Karen Black",
+         "Ronee Blakley",
+         "Timothy Brown",
+         "Keith Carradine",
+         "Geraldine Chaplin",
+         "Robert DoQui",
+         "Shelley Duvall",
+         "Allen Garfield",
+         "Henry Gibson",
+         "Scott Glenn",
+         "Jeff Goldblum",
+         "Barbara Harris"
+      ],
+      "filming_locations": "Centennial Park, Nashville, Tennessee, USA",
+      "rating": 7.6,
+      "language": ["English"],
+      "directors": ["Robert Altman"],
+      "rated": "R"
+   },
+   {
+      "genres": [
+         "Comedy",
+         "Musical"
+      ],
+      "runtime": ["68 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Duck Soup",
+      "imdb_url": "http://www.imdb.com/title/tt0023969/",
+      "rating_count": 37826,
+      "also_known_as": ["Die Marx Brothers im Krieg"],
+      "imdb_id": "tt0023969",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/023/969.jpg!cover?_upt=428e62e21384809919",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BNTQ2NjUyNTE4M15BMl5BanBnXkFtZTYwMTc0ODY5._V1_SY317_CR7,0,214,317_.jpg"
+      },
+      "plot_simple": "Rufus T. Firefly is named president/dictator of bankrupt Freedonia and declares war on neighboring Sylvania over the love of wealthy Mrs. Teasdale.",
+      "release_date": 19340127,
+      "writers": [
+         "Bert Kalmar",
+         "Harry Ruby"
+      ],
+      "year": 1933,
+      "actors": [
+         "The Marx Brothers",
+         "Groucho Marx",
+         "Harpo Marx",
+         "Chico Marx",
+         "Zeppo Marx",
+         "Margaret Dumont",
+         "Raquel Torres",
+         "Louis Calhern",
+         "Edmund Breese",
+         "Leonid Kinskey",
+         "Charles Middleton",
+         "Edgar Kennedy"
+      ],
+      "filming_locations": "Sierra de Loja, Granada, Andalucía, Spain",
+      "rating": 8,
+      "language": ["English"],
+      "directors": ["Leo McCarey"]
+   }
+]

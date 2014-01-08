@@ -1,0 +1,467 @@
+[
+   {
+      "genres": [
+         "Adventure",
+         "Comedy",
+         "Drama",
+         "Romance"
+      ],
+      "runtime": [
+         "90 min",
+         "85 min (TV premiere)"
+      ],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Sullivan's Travels",
+      "imdb_url": "http://www.imdb.com/title/tt0034240/",
+      "rating_count": 13020,
+      "also_known_as": ["Les voyages de Sullivan"],
+      "imdb_id": "tt0034240",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/034/240.jpg!cover?_upt=32c66d4d1384809919",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTczNjg2ODQ4NV5BMl5BanBnXkFtZTYwMDYwMzc4._V1_SY219_SX150_.jpg"
+      },
+      "plot_simple": "A director of escapist films goes on the road as a hobo to learn about Life...which gives him a rude awakening.",
+      "release_date": 19411200,
+      "writers": ["Preston Sturges"],
+      "year": 1941,
+      "actors": [
+         "Joel McCrea",
+         "Veronica Lake",
+         "Robert Warwick",
+         "William Demarest",
+         "Franklin Pangborn",
+         "Porter Hall",
+         "Byron Foulger",
+         "Margaret Hayes",
+         "Robert Greig",
+         "Eric Blore",
+         "Torben Meyer",
+         "Victor Potel",
+         "Richard Webb",
+         "Charles R. Moore",
+         "Almira Sessions"
+      ],
+      "filming_locations": "Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA",
+      "rating": 8.1,
+      "language": ["English"],
+      "directors": ["Preston Sturges"]
+   },
+   {
+      "genres": [
+         "Comedy",
+         "Drama"
+      ],
+      "runtime": [
+         "110 min",
+         "112 min (re-release)\n            (1978)"
+      ],
+      "type": "M",
+      "country": ["USA"],
+      "title": "American Graffiti",
+      "imdb_url": "http://www.imdb.com/title/tt0069704/",
+      "rating_count": 47848,
+      "also_known_as": ["Locura americana"],
+      "imdb_id": "tt0069704",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/069/704.jpg!cover?_upt=3746ac2b1384809919",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BNjQ0Njc2MTAwNF5BMl5BanBnXkFtZTYwNzQ4ODU5._V1_SX214_.jpg"
+      },
+      "plot_simple": "A couple of high school grads spend one final night cruising the strip with their buddies before they go off to college.",
+      "release_date": 19730811,
+      "year": 1973,
+      "writers": [
+         "George Lucas",
+         "Gloria Katz"
+      ],
+      "actors": [
+         "Richard Dreyfuss",
+         "Ron Howard",
+         "Paul Le Mat",
+         "Charles Martin Smith",
+         "Cindy Williams",
+         "Candy Clark",
+         "Mackenzie Phillips",
+         "Wolfman Jack",
+         "Bo Hopkins",
+         "Manuel Padilla Jr.",
+         "Beau Gentry",
+         "Harrison Ford",
+         "Jim Bohan",
+         "Jana Bellan",
+         "Deby Celiz"
+      ],
+      "filming_locations": "American Zoetrope Studios, San Francisco, California, USA",
+      "rating": 7.5,
+      "language": ["English"],
+      "directors": ["George Lucas"],
+      "rated": "PG"
+   },
+   {
+      "genres": [
+         "Drama",
+         "Musical"
+      ],
+      "runtime": ["124 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Cabaret",
+      "imdb_url": "http://www.imdb.com/title/tt0068327/",
+      "rating_count": 27318,
+      "also_known_as": ["Kabare"],
+      "imdb_id": "tt0068327",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/068/327.jpg!cover?_upt=f71cf0141384809919",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTM3NDcwNjA2MV5BMl5BanBnXkFtZTcwMjc3MTAwMQ@@._V1_SY317_CR2,0,214,317_.jpg"
+      },
+      "plot_simple": "A female girlie club entertainer in Weimar Republic era Berlin romances two men while the Nazi Party rises to power around them.",
+      "release_date": 19720213,
+      "year": 1972,
+      "writers": [
+         "Joe Masteroff",
+         "John Van Druten"
+      ],
+      "actors": [
+         "Liza Minnelli",
+         "Michael York",
+         "Helmut Griem",
+         "Joel Grey",
+         "Fritz Wepper",
+         "Marisa Berenson",
+         "Elisabeth Neumann-Viertel",
+         "Helen Vita",
+         "Sigrid von Richthofen",
+         "Gerd Vespermann",
+         "Ralf Wolter",
+         "Georg Hartmann",
+         "Ricky Renée",
+         "Estrongo Nachama",
+         "Kathryn Doby"
+      ],
+      "filming_locations": "Beigarten, Bavaria, Germany",
+      "rating": 7.7,
+      "language": [
+         "English",
+         "German",
+         "Hebrew",
+         "French"
+      ],
+      "directors": ["Bob Fosse"],
+      "rated": "PG"
+   },
+   {
+      "genres": ["Drama"],
+      "runtime": ["121 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Network",
+      "imdb_url": "http://www.imdb.com/title/tt0074958/",
+      "rating_count": 66391,
+      "also_known_as": ["Poder que mata"],
+      "imdb_id": "tt0074958",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/074/958.jpg!cover?_upt=a7276a7a1384809919",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMjIxMDQ1NjE3Nl5BMl5BanBnXkFtZTcwOTY5NTk1NA@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "A TV network cynically exploits a deranged ex-TV anchor's ravings and revelations about the media for their own profit.",
+      "release_date": 19761127,
+      "year": 1976,
+      "writers": ["Paddy Chayefsky"],
+      "actors": [
+         "Faye Dunaway",
+         "William Holden",
+         "Peter Finch",
+         "Robert Duvall",
+         "Wesley Addy",
+         "Ned Beatty",
+         "Arthur Burghardt",
+         "Bill Burrows",
+         "John Carpenter",
+         "Jordan Charney",
+         "Kathy Cronkite",
+         "Ed Crowley",
+         "Jerome Dempsey",
+         "Conchata Ferrell",
+         "Gene Gross"
+      ],
+      "filming_locations": "CFTO-TV Studios, Scarborough, Toronto, Ontario, Canada",
+      "rating": 8.1,
+      "language": ["English"],
+      "directors": ["Sidney Lumet"],
+      "rated": "R"
+   },
+   {
+      "genres": [
+         "Adventure",
+         "Romance",
+         "War"
+      ],
+      "runtime": ["105 min"],
+      "type": "M",
+      "country": [
+         "UK",
+         "USA"
+      ],
+      "title": "The African Queen",
+      "imdb_url": "http://www.imdb.com/title/tt0043265/",
+      "rating_count": 45871,
+      "also_known_as": ["African Queen"],
+      "imdb_id": "tt0043265",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/043/265.jpg!cover?_upt=fa1598661384809919",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTI0ODc1OTM0MF5BMl5BanBnXkFtZTYwOTQxNTQ2._V1_SY317_CR1,0,214,317_.jpg"
+      },
+      "plot_simple": "In Africa during WW1, a gin-swilling riverboat owner/captain is persuaded by a strait-laced missionary to use his boat to attack an enemy warship.",
+      "release_date": 19520220,
+      "writers": [
+         "C.S. Forester",
+         "James Agee"
+      ],
+      "year": 1951,
+      "actors": [
+         "Humphrey Bogart",
+         "Katharine Hepburn",
+         "Robert Morley",
+         "Peter Bull",
+         "Theodore Bikel",
+         "Walter Gotell",
+         "Peter Swanwick",
+         "Richard Marner"
+      ],
+      "filming_locations": "Isleworth Studios, London Road, Isleworth, Middlesex, England, UK",
+      "rating": 8,
+      "language": [
+         "English",
+         "German",
+         "Swahili"
+      ],
+      "directors": ["John Huston"]
+   },
+   {
+      "genres": [
+         "Action",
+         "Adventure"
+      ],
+      "runtime": ["115 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Raiders of the Lost Ark",
+      "imdb_url": "http://www.imdb.com/title/tt0082971/",
+      "rating_count": 420099,
+      "also_known_as": ["Indiana Jones"],
+      "imdb_id": "tt0082971",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/082/971.jpg!cover?_upt=001284fe1384809919",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "Archeologist and adventurer Indiana Jones is hired by the US government to find the Ark of the Covenant before the Nazis.",
+      "release_date": 19871211,
+      "year": 1981,
+      "writers": [
+         "Lawrence Kasdan",
+         "George Lucas"
+      ],
+      "actors": [
+         "Harrison Ford",
+         "Karen Allen",
+         "Paul Freeman",
+         "Ronald Lacey",
+         "John Rhys-Davies",
+         "Denholm Elliott",
+         "Alfred Molina",
+         "Wolf Kahler",
+         "Anthony Higgins",
+         "Vic Tablian",
+         "Don Fellows",
+         "William Hootkins",
+         "Bill Reimbold",
+         "Fred Sorenson",
+         "Patrick Durkin"
+      ],
+      "filming_locations": "Borehamwood, Hertfordshire, England, UK",
+      "rating": 8.6,
+      "language": [
+         "English",
+         "German",
+         "Hebrew",
+         "Spanish",
+         "Arabic",
+         "Nepali"
+      ],
+      "directors": ["Steven Spielberg"],
+      "rated": "PG"
+   },
+   {
+      "genres": ["Drama"],
+      "runtime": ["131 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Who's Afraid of Virginia Woolf?",
+      "imdb_url": "http://www.imdb.com/title/tt0061184/",
+      "rating_count": 35571,
+      "also_known_as": ["Edward Albee's Who's Afraid of Virginia Woolf?"],
+      "imdb_id": "tt0061184",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/061/184.jpg!cover?_upt=29c9af4e1384809919",
+         "imdb": null
+      },
+      "plot_simple": "A bitter aging couple with the help of alcohol, use a young couple to fuel anguish and emotional pain towards each other.",
+      "release_date": 19660622,
+      "year": 1966,
+      "writers": ["Ernest Lehman"],
+      "actors": [
+         "Elizabeth Taylor",
+         "Richard Burton",
+         "George Segal",
+         "Sandy Dennis"
+      ],
+      "filming_locations": "Cambridge, Massachusetts, USA",
+      "rating": 8.1,
+      "language": [
+         "English",
+         "Latin",
+         "Spanish"
+      ],
+      "directors": ["Mike Nichols"],
+      "rated": "TV-MA"
+   },
+   {
+      "genres": ["Western"],
+      "runtime": ["131 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Unforgiven",
+      "imdb_url": "http://www.imdb.com/title/tt0105695/",
+      "rating_count": 181230,
+      "also_known_as": ["The Cut Whore Killings"],
+      "imdb_id": "tt0105695",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/105/695.jpg!cover?_upt=a40c01851384809919",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTkzNTc0NDc4OF5BMl5BanBnXkFtZTcwNTY1ODg3OA@@._V1_SY317_CR5,0,214,317_.jpg"
+      },
+      "plot_simple": "Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner and a young man.",
+      "release_date": 19920807,
+      "year": 1992,
+      "writers": ["David Webb Peoples"],
+      "actors": [
+         "Clint Eastwood",
+         "Gene Hackman",
+         "Morgan Freeman",
+         "Richard Harris",
+         "Jaimz Woolvett",
+         "Saul Rubinek",
+         "Frances Fisher",
+         "Anna Levine",
+         "David Mucci",
+         "Rob Campbell",
+         "Anthony James",
+         "Tara Frederick",
+         "Beverley Elliott",
+         "Liisa Repo-Martell",
+         "Josie Smith"
+      ],
+      "filming_locations": "Alberta, Canada",
+      "rating": 8.3,
+      "language": ["English"],
+      "directors": ["Clint Eastwood"],
+      "rated": "R"
+   },
+   {
+      "genres": [
+         "Comedy",
+         "Drama",
+         "Romance"
+      ],
+      "runtime": ["116 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Tootsie",
+      "imdb_url": "http://www.imdb.com/title/tt0084805/",
+      "rating_count": 56917,
+      "also_known_as": ["Aranyoskám"],
+      "imdb_id": "tt0084805",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/084/805.jpg!cover?_upt=43c13dbe1384809919",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTcxNTQ0ODE0OV5BMl5BanBnXkFtZTcwNzc1Mjk3OA@@._V1_SY317_CR12,0,214,317_.jpg"
+      },
+      "plot_simple": "An unemployed actor with a reputation for being difficult disguises himself as a woman to get a role in a soap opera.",
+      "release_date": 19821217,
+      "writers": [
+         "Larry Gelbart",
+         "Murray Schisgal"
+      ],
+      "year": 1982,
+      "actors": [
+         "Dustin Hoffman",
+         "Jessica Lange",
+         "Teri Garr",
+         "Dabney Coleman",
+         "Charles Durning",
+         "Bill Murray",
+         "Sydney Pollack",
+         "George Gaynes",
+         "Geena Davis",
+         "Doris Belack",
+         "Ellen Foley",
+         "Peter Gatto",
+         "Lynne Thigpen",
+         "Ronald L. Schwary",
+         "Debra Mooney"
+      ],
+      "filming_locations": "Hurley Mountain Inn, Hurley, New York, USA",
+      "rating": 7.4,
+      "language": ["English"],
+      "directors": ["Sydney Pollack"]
+   },
+   {
+      "genres": [
+         "Crime",
+         "Drama",
+         "Sci-Fi"
+      ],
+      "runtime": ["136 min"],
+      "type": "M",
+      "country": [
+         "UK",
+         "USA"
+      ],
+      "title": "A Clockwork Orange",
+      "imdb_url": "http://www.imdb.com/title/tt0066921/",
+      "rating_count": 340102,
+      "also_known_as": ["Stanley Kubrick's A Clockwork Orange"],
+      "imdb_id": "tt0066921",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/066/921.jpg!cover?_upt=0262afa81384809919",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMjE1NjcwMTYxM15BMl5BanBnXkFtZTcwMjcxNDg3OA@@._V1_SY317_CR5,0,214,317_.jpg"
+      },
+      "plot_simple": "In future Britain, charismatic delinquent Alex DeLarge is jailed and volunteers for an experimental aversion therapy developed by the government in an effort to solve society's crime problem... but not all goes to plan.",
+      "release_date": 19720202,
+      "year": 1971,
+      "writers": [
+         "Stanley Kubrick",
+         "Anthony Burgess"
+      ],
+      "actors": [
+         "Malcolm McDowell",
+         "Patrick Magee",
+         "Michael Bates",
+         "Warren Clarke",
+         "John Clive",
+         "Adrienne Corri",
+         "Carl Duering",
+         "Paul Farrell",
+         "Clive Francis",
+         "Michael Gover",
+         "Miriam Karlin",
+         "James Marcus",
+         "Aubrey Morris",
+         "Godfrey Quigley",
+         "Sheila Raynor"
+      ],
+      "filming_locations": "Pinewood Studios, Iver Heath, Buckinghamshire, England, UK",
+      "rating": 8.4,
+      "language": ["English"],
+      "directors": ["Stanley Kubrick"],
+      "rated": "X"
+   }
+]

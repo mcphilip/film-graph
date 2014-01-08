@@ -1,0 +1,481 @@
+[
+   {
+      "genres": [
+         "Action",
+         "Drama",
+         "War"
+      ],
+      "runtime": ["169 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Der Soldat James Ryan\n            \"Saving Private Ryan\"",
+      "imdb_url": "http://www.imdb.com/title/tt0120815/",
+      "rating_count": 522323,
+      "also_known_as": ["Der Soldat James Ryan"],
+      "imdb_id": "tt0120815",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/120/815.jpg!cover?_upt=e7551e661384809920",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BNjczODkxNTAxN15BMl5BanBnXkFtZTcwMTcwNjUxMw@@._V1_SY317_CR9,0,214,317_.jpg"
+      },
+      "plot_simple": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+      "release_date": 19981008,
+      "year": 1998,
+      "writers": ["Robert Rodat"],
+      "actors": [
+         "Tom Hanks",
+         "Tom Sizemore",
+         "Edward Burns",
+         "Barry Pepper",
+         "Adam Goldberg",
+         "Vin Diesel",
+         "Giovanni Ribisi",
+         "Jeremy Davies",
+         "Matt Damon",
+         "Ted Danson",
+         "Paul Giamatti",
+         "Dennis Farina",
+         "Joerg Stadler",
+         "Max Martini",
+         "Dylan Bruno"
+      ],
+      "filming_locations": "Calvados, France",
+      "rating": 8.6,
+      "language": [
+         "English",
+         "French",
+         "German",
+         "Czech"
+      ],
+      "directors": ["Steven Spielberg"],
+      "rated": "16"
+   },
+   {
+      "genres": [
+         "Crime",
+         "Drama"
+      ],
+      "runtime": ["142 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Shôshanku no sora ni\n            \"The Shawshank Redemption\"",
+      "imdb_url": "http://www.imdb.com/title/tt0111161/",
+      "rating_count": 1027712,
+      "also_known_as": ["Xiao shen ke de jiu shu"],
+      "imdb_id": "tt0111161",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/111/161.jpg!cover?_upt=79ec7f871384809920",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTc3NjM4MTY3MV5BMl5BanBnXkFtZTcwODk4Mzg3OA@@._V1_SY317_CR4,0,214,317_.jpg"
+      },
+      "plot_simple": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "release_date": 19950603,
+      "writers": [
+         "Stephen King",
+         "Frank Darabont"
+      ],
+      "year": 1994,
+      "actors": [
+         "Tim Robbins",
+         "Morgan Freeman",
+         "Bob Gunton",
+         "William Sadler",
+         "Clancy Brown",
+         "Gil Bellows",
+         "Mark Rolston",
+         "James Whitmore",
+         "Jeffrey DeMunn",
+         "Larry Brandenburg",
+         "Neil Giuntoli",
+         "Brian Libby",
+         "David Proval",
+         "Joseph Ragno",
+         "Jude Ciccolella"
+      ],
+      "filming_locations": "St. Croix, U.S. Virgin Islands",
+      "rating": 9.3,
+      "language": ["English"],
+      "directors": ["Frank Darabont"]
+   },
+   {
+      "genres": [
+         "Adventure",
+         "Biography",
+         "Crime",
+         "Western"
+      ],
+      "runtime": ["110 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Butch Cassidy and the Sundance Kid",
+      "imdb_url": "http://www.imdb.com/title/tt0064115/",
+      "rating_count": 97826,
+      "also_known_as": ["Butch Cassidy"],
+      "imdb_id": "tt0064115",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/064/115.jpg!cover?_upt=698ef7fb1384809920",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTUxODgzNjA3OF5BMl5BanBnXkFtZTcwMjgzNjk3OA@@._V1_SY317_CR0,0,214,317_.jpg"
+      },
+      "plot_simple": "Two Western bank/train robbers flee to Bolivia when the law gets too close.",
+      "release_date": 19691024,
+      "writers": ["William Goldman"],
+      "year": 1969,
+      "actors": [
+         "Paul Newman",
+         "Robert Redford",
+         "Katharine Ross",
+         "Strother Martin",
+         "Henry Jones",
+         "Jeff Corey",
+         "George Furth",
+         "Cloris Leachman",
+         "Ted Cassidy",
+         "Kenneth Mars",
+         "Donnelly Rhodes",
+         "Jody Gilbert",
+         "Timothy Scott",
+         "Don Keefer",
+         "Charles Dierkop"
+      ],
+      "filming_locations": "Lake Sherwood, California, USA",
+      "rating": 8.2,
+      "language": [
+         "English",
+         "Spanish"
+      ],
+      "directors": ["George Roy Hill"]
+   },
+   {
+      "genres": [
+         "Crime",
+         "Drama",
+         "Thriller"
+      ],
+      "runtime": ["118 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Le silence des agneaux\n            \"The Silence of the Lambs\"",
+      "imdb_url": "http://www.imdb.com/title/tt0102926/",
+      "rating_count": 502851,
+      "also_known_as": ["Le silence des agneaux"],
+      "imdb_id": "tt0102926",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/102/926.jpg!cover?_upt=fadcd6841384809920",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTQ2NzkzMDI4OF5BMl5BanBnXkFtZTcwMDA0NzE1NA@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "A young F.B.I. cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer who skins his victims.",
+      "release_date": 19910410,
+      "writers": [
+         "Thomas Harris",
+         "Ted Tally"
+      ],
+      "year": 1991,
+      "actors": [
+         "Jodie Foster",
+         "Lawrence A. Bonney",
+         "Kasi Lemmons",
+         "Lawrence T. Wrentz",
+         "Scott Glenn",
+         "Anthony Heald",
+         "Frankie Faison",
+         "Don Brockett",
+         "Frank Seals Jr.",
+         "Stuart Rudin",
+         "Anthony Hopkins",
+         "Maria Skorobogatov",
+         "Jeffrie Lane",
+         "Leib Lensky",
+         "George 'Red' Schwartz"
+      ],
+      "filming_locations": "Clay County, West Virginia, USA",
+      "rating": 8.7,
+      "language": ["English"],
+      "directors": ["Jonathan Demme"]
+   },
+   {
+      "genres": [
+         "Crime",
+         "Drama",
+         "Mystery",
+         "Thriller"
+      ],
+      "runtime": ["109 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "In the Heat of the Night",
+      "imdb_url": "http://www.imdb.com/title/tt0061811/",
+      "rating_count": 35184,
+      "also_known_as": ["Al calor de la noche"],
+      "imdb_id": "tt0061811",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/061/811.jpg!cover?_upt=a60d96d21384809920",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTk3NjkxMDc1MV5BMl5BanBnXkFtZTcwMDIwMjI0NA@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "An African American police detective is asked to investigate a murder in a racially hostile southern town.",
+      "release_date": 19671014,
+      "year": 1967,
+      "writers": [
+         "Stirling Silliphant",
+         "John Ball"
+      ],
+      "actors": [
+         "Sidney Poitier",
+         "Rod Steiger",
+         "Warren Oates",
+         "Lee Grant",
+         "Larry Gates",
+         "James Patterson",
+         "William Schallert",
+         "Beah Richards",
+         "Peter Whitney",
+         "Kermit Murdock",
+         "Larry D. Mann",
+         "Matt Clark",
+         "Arthur Malet",
+         "Fred Stewart",
+         "Quentin Dean"
+      ],
+      "filming_locations": "Belleville, Illinois, USA",
+      "rating": 8,
+      "language": ["English"],
+      "directors": ["Norman Jewison"],
+      "rated": "Approved"
+   },
+   {
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "runtime": ["142 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Forrest Gump",
+      "imdb_url": "http://www.imdb.com/title/tt0109830/",
+      "rating_count": 678121,
+      "also_known_as": ["Форрест Гамп"],
+      "imdb_id": "tt0109830",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/109/830.jpg!cover?_upt=d81c14bf1384809920",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTQwMTA5MzI1MF5BMl5BanBnXkFtZTcwMzY5Mzg3OA@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "Forrest Gump, while not intelligent, has accidentally been present at many historic moments, but his true love, Jenny Curran, eludes him.",
+      "release_date": 19940706,
+      "year": 1994,
+      "writers": [
+         "Winston Groom",
+         "Eric Roth"
+      ],
+      "actors": [
+         "Tom Hanks",
+         "Rebecca Williams",
+         "Sally Field",
+         "Michael Conner Humphreys",
+         "Harold G. Herthum",
+         "George Kelly",
+         "Bob Penny",
+         "John Randall",
+         "Sam Anderson",
+         "Margo Moorer",
+         "Ione M. Telech",
+         "Christine Seabrook",
+         "John Worsham",
+         "Peter Dobson",
+         "Siobhan Fallon"
+      ],
+      "filming_locations": "Ambassador Hotel - 3400 Wilshire Boulevard, Los Angeles, California, USA",
+      "rating": 8.7,
+      "language": ["English"],
+      "directors": ["Robert Zemeckis"],
+      "rated": "PG-13"
+   },
+   {
+      "genres": [
+         "Drama",
+         "History",
+         "Mystery",
+         "Thriller"
+      ],
+      "runtime": [
+         "138 min",
+         "125 min (TV)"
+      ],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Les hommes du président\n            \"All the President's Men\"",
+      "imdb_url": "http://www.imdb.com/title/tt0074119/",
+      "rating_count": 51320,
+      "also_known_as": ["Les hommes du président"],
+      "imdb_id": "tt0074119",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/074/119.jpg!cover?_upt=f69f02921384809920",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BODAxMTc4ODcxNF5BMl5BanBnXkFtZTcwNDY0NTAyMQ@@._V1_SY317_CR8,0,214,317_.jpg"
+      },
+      "plot_simple": "Reporters Woodward and Bernstein uncover the details of the Watergate scandal that leads to President Nixon's resignation.",
+      "release_date": 19760922,
+      "writers": [
+         "Carl Bernstein",
+         "Bob Woodward"
+      ],
+      "year": 1976,
+      "actors": [
+         "Dustin Hoffman",
+         "Robert Redford",
+         "Jack Warden",
+         "Martin Balsam",
+         "Hal Holbrook",
+         "Jason Robards",
+         "Jane Alexander",
+         "Meredith Baxter",
+         "Ned Beatty",
+         "Stephen Collins",
+         "Penny Fuller",
+         "John McMartin",
+         "Robert Walden",
+         "Frank Wills",
+         "F. Murray Abraham"
+      ],
+      "filming_locations": "2600 Virginia Avenue NW, Washington, District of Columbia, USA",
+      "rating": 8,
+      "language": [
+         "English",
+         "Spanish"
+      ],
+      "directors": ["Alan J. Pakula"]
+   },
+   {
+      "genres": [
+         "Comedy",
+         "Drama"
+      ],
+      "runtime": ["87 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Modern Times",
+      "imdb_url": "http://www.imdb.com/title/tt0027977/",
+      "rating_count": 76058,
+      "also_known_as": ["The Masses"],
+      "imdb_id": "tt0027977",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/027/977.jpg!cover?_upt=bb0679101384809920",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMjMwMDA5NzEwOF5BMl5BanBnXkFtZTcwMzgwNDg3OA@@._V1_SY317_CR5,0,214,317_.jpg"
+      },
+      "plot_simple": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+      "release_date": 19360225,
+      "year": 1936,
+      "writers": ["Charles Chaplin"],
+      "actors": [
+         "Charles Chaplin",
+         "Paulette Goddard",
+         "Henry Bergman",
+         "Tiny Sandford",
+         "Chester Conklin",
+         "Hank Mann",
+         "Stanley Blystone",
+         "Al Ernest Garcia",
+         "Richard Alexander",
+         "Cecil Reynolds",
+         "Mira McKinney",
+         "Murdock MacQuarrie",
+         "Wilfred Lucas",
+         "Edward LeSaint",
+         "Fred Malatesta"
+      ],
+      "filming_locations": "Santa Clarita, California, USA",
+      "rating": 8.6,
+      "language": ["English"],
+      "directors": ["Charles Chaplin"],
+      "rated": "Approved"
+   },
+   {
+      "genres": ["Western"],
+      "runtime": ["145 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "The Wild Bunch",
+      "imdb_url": "http://www.imdb.com/title/tt0065214/",
+      "rating_count": 48546,
+      "also_known_as": ["La pandilla salvaje"],
+      "imdb_id": "tt0065214",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/065/214.jpg!cover?_upt=6066efcf1384809920",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMjMxNjEyNDE4NF5BMl5BanBnXkFtZTcwODk2Njk3OA@@._V1_SY317_CR4,0,214,317_.jpg"
+      },
+      "plot_simple": "An aging group of outlaws look for one last big score as the \"traditional\" American West is disappearing around them.",
+      "release_date": 19690618,
+      "year": 1969,
+      "writers": [
+         "Walon Green",
+         "Sam Peckinpah"
+      ],
+      "actors": [
+         "William Holden",
+         "Ernest Borgnine",
+         "Robert Ryan",
+         "Edmond O'Brien",
+         "Warren Oates",
+         "Jaime Sánchez",
+         "Ben Johnson",
+         "Emilio Fernández",
+         "Strother Martin",
+         "L.Q. Jones",
+         "Albert Dekker",
+         "Bo Hopkins",
+         "Dub Taylor",
+         "Paul Harper",
+         "Jorge Russek"
+      ],
+      "filming_locations": "Durango, Mexico",
+      "rating": 8.1,
+      "language": [
+         "English",
+         "Spanish",
+         "German"
+      ],
+      "directors": ["Sam Peckinpah"],
+      "rated": "R"
+   },
+   {
+      "genres": [
+         "Comedy",
+         "Drama",
+         "Romance"
+      ],
+      "runtime": ["125 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Apâto no kagi kashimasu\n            \"The Apartment\"",
+      "imdb_url": "http://www.imdb.com/title/tt0053604/",
+      "rating_count": 67298,
+      "also_known_as": ["Apâto no kagi kashimasu"],
+      "imdb_id": "tt0053604",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/053/604.jpg!cover?_upt=15450f311384809920",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTM1OTc4MzgzNl5BMl5BanBnXkFtZTcwNTE2NjgyMw@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "A man tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue.",
+      "release_date": 19601008,
+      "writers": [
+         "Billy Wilder",
+         "I.A.L. Diamond"
+      ],
+      "year": 1960,
+      "actors": [
+         "Jack Lemmon",
+         "Shirley MacLaine",
+         "Fred MacMurray",
+         "Ray Walston",
+         "Jack Kruschen",
+         "David Lewis",
+         "Hope Holiday",
+         "Joan Shawlee",
+         "Naomi Stevens",
+         "Johnny Seven",
+         "Joyce Jameson",
+         "Willard Waterman",
+         "David White",
+         "Edie Adams"
+      ],
+      "filming_locations": "205 Columbus Avenue, New York City, New York, USA",
+      "rating": 8.4,
+      "language": ["English"],
+      "directors": ["Billy Wilder"]
+   }
+]

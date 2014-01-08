@@ -1,0 +1,8 @@
+MATCH
+	(genreNode)-[:`GENRE_OF`]->(movieNode)
+RETURN
+	genreNode.name AS Genre,
+	count(*) as `# of Occurences in AFI` 
+ORDER BY
+	`# of Occurences in AFI` DESC,
+	Genre ASC

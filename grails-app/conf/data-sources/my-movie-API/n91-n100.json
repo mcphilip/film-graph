@@ -1,0 +1,519 @@
+[
+   {
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "runtime": [
+         "150 min",
+         "157 min (Ontario)"
+      ],
+      "type": "M",
+      "country": [
+         "UK",
+         "USA"
+      ],
+      "title": "Sophie's Choice",
+      "imdb_url": "http://www.imdb.com/title/tt0084707/",
+      "rating_count": 19723,
+      "also_known_as": ["La decisión de Sophie"],
+      "imdb_id": "tt0084707",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/084/707.jpg!cover?_upt=2975257f1384809920",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BNDIzODc3Mjk5M15BMl5BanBnXkFtZTYwNDc5NDc5._V1_SY317_CR2,0,214,317_.jpg"
+      },
+      "plot_simple": "Sophie is the survivor of Nazi concentration camps, who has found a reason to live in Nathan, a sparkling if unsteady American Jew obsessed with the Holocaust. They befriend Stingo, the ...",
+      "release_date": 19821208,
+      "year": 1982,
+      "writers": [
+         "William Styron",
+         "Alan J. Pakula"
+      ],
+      "actors": [
+         "Meryl Streep",
+         "Kevin Kline",
+         "Peter MacNicol",
+         "Rita Karin",
+         "Stephen D. Newman",
+         "Greta Turken",
+         "Josh Mostel",
+         "Marcell Rosenblatt",
+         "Moishe Rosenfeld",
+         "Robin Bartlett",
+         "Eugene Lipinski",
+         "John Rothman",
+         "Joseph Leon",
+         "David Wohl",
+         "Nina Polan"
+      ],
+      "filming_locations": "Reiserovo castle, Samobor, Croatia",
+      "rating": 7.6,
+      "language": [
+         "English",
+         "Polish",
+         "German",
+         "French",
+         "Russian"
+      ],
+      "directors": ["Alan J. Pakula"],
+      "rated": "R"
+   },
+   {
+      "genres": [
+         "Biography",
+         "Crime",
+         "Drama",
+         "Thriller"
+      ],
+      "runtime": ["146 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Goodfellas",
+      "imdb_url": "http://www.imdb.com/title/tt0099685/",
+      "rating_count": 444419,
+      "also_known_as": ["Buenos muchachos"],
+      "imdb_id": "tt0099685",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/099/685.jpg!cover?_upt=502796e11384809920",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMjU3MTQ4OTA0MV5BMl5BanBnXkFtZTYwNjAyMDg4._V1_SY317_CR7,0,214,317_.jpg"
+      },
+      "plot_simple": "Henry Hill and his friends work their way up through the mob hierarchy.",
+      "release_date": 19901026,
+      "year": 1990,
+      "writers": ["Nicholas Pileggi"],
+      "actors": [
+         "Robert De Niro",
+         "Ray Liotta",
+         "Joe Pesci",
+         "Lorraine Bracco",
+         "Paul Sorvino",
+         "Frank Sivero",
+         "Tony Darrow",
+         "Mike Starr",
+         "Frank Vincent",
+         "Chuck Low",
+         "Frank DiLeo",
+         "Henny Youngman",
+         "Gina Mastrogiacomo",
+         "Catherine Scorsese",
+         "Charles Scorsese"
+      ],
+      "filming_locations": "2409 Thirty Second Street, Astoria, Queens, New York City, New York, USA",
+      "rating": 8.8,
+      "language": [
+         "English",
+         "Italian"
+      ],
+      "directors": ["Martin Scorsese"],
+      "rated": "18"
+   },
+   {
+      "genres": [
+         "Action",
+         "Crime",
+         "Thriller"
+      ],
+      "runtime": ["104 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "The French Connection",
+      "imdb_url": "http://www.imdb.com/title/tt0067116/",
+      "rating_count": 55549,
+      "also_known_as": ["Contacto en Francia"],
+      "imdb_id": "tt0067116",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/067/116.jpg!cover?_upt=4036c2c91384809920",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTY5Nzg5OTIzOF5BMl5BanBnXkFtZTcwMDI5NDA0MQ@@._V1_SY317_CR9,0,214,317_.jpg"
+      },
+      "plot_simple": "A pair of NYC cops in the Narcotics Bureau stumble onto a drug smuggling job with a French connection.",
+      "release_date": 19711009,
+      "year": 1971,
+      "writers": [
+         "Ernest Tidyman",
+         "Robin Moore"
+      ],
+      "actors": [
+         "Gene Hackman",
+         "Fernando Rey",
+         "Roy Scheider",
+         "Tony Lo Bianco",
+         "Marcel Bozzuffi",
+         "Frédéric de Pasquale",
+         "Bill Hickman",
+         "Ann Rebbot",
+         "Harold Gary",
+         "Arlene Farber",
+         "Eddie Egan",
+         "André Ernotte",
+         "Sonny Grosso",
+         "Benny Marino",
+         "Patrick McDermott"
+      ],
+      "filming_locations": "Château d'If, Marseille, Bouches-du-Rhône, France",
+      "rating": 7.9,
+      "language": [
+         "English",
+         "French"
+      ],
+      "directors": ["William Friedkin"],
+      "rated": "R"
+   },
+   {
+      "genres": [
+         "Crime",
+         "Drama",
+         "Thriller"
+      ],
+      "runtime": [
+         "154 min",
+         "168 min (special edition)"
+      ],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Pulp Fiction",
+      "imdb_url": "http://www.imdb.com/title/tt0110912/",
+      "rating_count": 795956,
+      "also_known_as": ["Tiempos violentos"],
+      "imdb_id": "tt0110912",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/110/912.jpg!cover?_upt=4611420d1384809920",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMjE0ODk2NjczOV5BMl5BanBnXkFtZTYwNDQ0NDg4._V1_SY317_CR4,0,214,317_.jpg"
+      },
+      "plot_simple": "The lives of two mob hit men, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "release_date": 19941014,
+      "year": 1994,
+      "writers": [
+         "Quentin Tarantino",
+         "Roger Avary"
+      ],
+      "actors": [
+         "John Travolta",
+         "Samuel L. Jackson",
+         "Tim Roth",
+         "Amanda Plummer",
+         "Eric Stoltz",
+         "Bruce Willis",
+         "Ving Rhames",
+         "Phil LaMarr",
+         "Maria de Medeiros",
+         "Rosanna Arquette",
+         "Peter Greene",
+         "Uma Thurman",
+         "Duane Whitaker",
+         "Paul Calderon",
+         "Frank Whaley"
+      ],
+      "filming_locations": "1435 Flower Street, Glendale, California, USA",
+      "rating": 9,
+      "language": [
+         "English",
+         "Spanish",
+         "French"
+      ],
+      "directors": ["Quentin Tarantino"],
+      "rated": "R"
+   },
+   {
+      "genres": ["Drama"],
+      "runtime": [
+         "118 min",
+         "127 min (director's cut)"
+      ],
+      "type": "M",
+      "country": ["USA"],
+      "title": "The Last Picture Show",
+      "imdb_url": "http://www.imdb.com/title/tt0067328/",
+      "rating_count": 23583,
+      "also_known_as": ["Die letzte Vorstellung"],
+      "imdb_id": "tt0067328",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/067/328.jpg!cover?_upt=3c5975a11384809920",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BNDkyNzQ1NzYzN15BMl5BanBnXkFtZTcwNjE5MDEwNw@@._V1._CR73.19999694824219,89.69999694824219,1196,1865.2000274658203_SX214_.jpg"
+      },
+      "plot_simple": "A group of 50's high schoolers come of age in a bleak, isolated, atrophied West Texas town that is slowly dying, both economically and culturally.",
+      "release_date": 19711022,
+      "year": 1971,
+      "writers": [
+         "Larry McMurtry",
+         "Peter Bogdanovich"
+      ],
+      "actors": [
+         "Timothy Bottoms",
+         "Jeff Bridges",
+         "Cybill Shepherd",
+         "Ben Johnson",
+         "Cloris Leachman",
+         "Ellen Burstyn",
+         "Eileen Brennan",
+         "Clu Gulager",
+         "Sam Bottoms",
+         "Sharon Ullrick",
+         "Randy Quaid",
+         "Joe Heathcock",
+         "Bill Thurman",
+         "Barc Doyle",
+         "Jessie Lee Fulton"
+      ],
+      "filming_locations": "115 East Main Street, Archer City, Texas, USA",
+      "rating": 8,
+      "language": ["English"],
+      "directors": ["Peter Bogdanovich"],
+      "rated": "R"
+   },
+   {
+      "genres": ["Drama"],
+      "runtime": ["120 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Do the Right Thing",
+      "imdb_url": "http://www.imdb.com/title/tt0097216/",
+      "rating_count": 41809,
+      "also_known_as": ["Heatwave"],
+      "imdb_id": "tt0097216",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/097/216.jpg!cover?_upt=591368a01384809920",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTI3NzAwMjkwNV5BMl5BanBnXkFtZTcwNDgxMjAyMQ@@._V1_SY317_CR5,0,214,317_.jpg"
+      },
+      "plot_simple": "On the hottest day of the year on a street in the Bedford-Stuyvesant section of Brooklyn, everyone's hate and bigotry smolders and builds until it explodes into violence.",
+      "release_date": 19890630,
+      "year": 1989,
+      "writers": ["Spike Lee"],
+      "actors": [
+         "Danny Aiello",
+         "Ossie Davis",
+         "Ruby Dee",
+         "Richard Edson",
+         "Giancarlo Esposito",
+         "Spike Lee",
+         "Bill Nunn",
+         "John Turturro",
+         "Paul Benjamin",
+         "Frankie Faison",
+         "Robin Harris",
+         "Joie Lee",
+         "Miguel Sandoval",
+         "Rick Aiello",
+         "John Savage"
+      ],
+      "filming_locations": "Bedford-Stuyvesant, Brooklyn, New York City, New York, USA",
+      "rating": 7.8,
+      "language": [
+         "English",
+         "Italian",
+         "Spanish"
+      ],
+      "directors": ["Spike Lee"],
+      "rated": "R"
+   },
+   {
+      "genres": [
+         "Drama",
+         "Sci-Fi",
+         "Thriller"
+      ],
+      "runtime": ["117 min"],
+      "type": "M",
+      "country": [
+         "USA",
+         "Hong Kong",
+         "UK"
+      ],
+      "title": "Blade Runner",
+      "imdb_url": "http://www.imdb.com/title/tt0083658/",
+      "rating_count": 310874,
+      "also_known_as": ["Dangerous Days"],
+      "imdb_id": "tt0083658",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/083/658.jpg!cover?_upt=fe2f039c1384809920",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTA4MDQxNTk2NDheQTJeQWpwZ15BbWU3MDE2NjIyODk@._V1_SX214_.jpg"
+      },
+      "plot_simple": "Deckard, a blade runner, has to track down and terminate 4 replicants who hijacked a ship in space and have returned to Earth seeking their maker.",
+      "release_date": 19820625,
+      "year": 1982,
+      "writers": [
+         "Hampton Fancher",
+         "David Webb Peoples"
+      ],
+      "actors": [
+         "Harrison Ford",
+         "Rutger Hauer",
+         "Sean Young",
+         "Edward James Olmos",
+         "M. Emmet Walsh",
+         "Daryl Hannah",
+         "William Sanderson",
+         "Brion James",
+         "Joe Turkel",
+         "Joanna Cassidy",
+         "James Hong",
+         "Morgan Paull",
+         "Kevin Thompson",
+         "John Edward Allen",
+         "Hy Pyke"
+      ],
+      "filming_locations": "Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA",
+      "rating": 8.3,
+      "language": [
+         "English",
+         "German",
+         "Cantonese",
+         "Japanese",
+         "Hungarian"
+      ],
+      "directors": ["Ridley Scott"],
+      "rated": "R"
+   },
+   {
+      "genres": [
+         "Biography",
+         "Drama",
+         "Musical"
+      ],
+      "runtime": ["126 min"],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Yankee Doodle Dandy",
+      "imdb_url": "http://www.imdb.com/title/tt0035575/",
+      "rating_count": 8371,
+      "also_known_as": ["Triunfo supremo"],
+      "imdb_id": "tt0035575",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/035/575.jpg!cover?_upt=a122acb31384809920",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTY4NDA4NjE1Ml5BMl5BanBnXkFtZTcwODM2ODA2Mw@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "A film of the life of the renowned musical composer, playwright, actor, dancer and singer George M. Cohan.",
+      "release_date": 19420606,
+      "year": 1942,
+      "writers": [
+         "Robert Buckner",
+         "Edmund Joseph"
+      ],
+      "actors": [
+         "James Cagney",
+         "Joan Leslie",
+         "Walter Huston",
+         "Richard Whorf",
+         "Irene Manning",
+         "George Tobias",
+         "Rosemary DeCamp",
+         "Jeanne Cagney",
+         "Frances Langford",
+         "George Barbier",
+         "S.Z. Sakall",
+         "Walter Catlett",
+         "Douglas Croft",
+         "Eddie Foy Jr.",
+         "Minor Watson"
+      ],
+      "filming_locations": "New York Street, Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA",
+      "rating": 7.6,
+      "language": ["English"],
+      "directors": ["Michael Curtiz"],
+      "rated": "Approved"
+   },
+   {
+      "genres": [
+         "Animation",
+         "Adventure",
+         "Comedy",
+         "Family",
+         "Fantasy"
+      ],
+      "runtime": [
+         "81 min",
+         "74 min (TV)"
+      ],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Toy Story",
+      "imdb_url": "http://www.imdb.com/title/tt0114709/",
+      "rating_count": 352932,
+      "also_known_as": ["Priča o igračkama"],
+      "imdb_id": "tt0114709",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/114/709.jpg!cover?_upt=904ab4891384809920",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BMTgwMjI4MzU5N15BMl5BanBnXkFtZTcwMTMyNTk3OA@@._V1_SY317_CR12,0,214,317_.jpg"
+      },
+      "plot_simple": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
+      "release_date": 19960308,
+      "actors": [
+         "Tom Hanks",
+         "Tim Allen",
+         "Don Rickles",
+         "Jim Varney",
+         "Wallace Shawn",
+         "John Ratzenberger",
+         "Annie Potts",
+         "John Morris",
+         "Erik von Detten",
+         "Laurie Metcalf",
+         "R. Lee Ermey",
+         "Sarah Freeman",
+         "Penn Jillette",
+         "Jack Angel",
+         "Spencer Aste"
+      ],
+      "writers": [
+         "John Lasseter",
+         "Pete Docter"
+      ],
+      "year": 1995,
+      "rating": 8.3,
+      "language": ["English"],
+      "directors": ["John Lasseter"]
+   },
+   {
+      "genres": [
+         "Action",
+         "Adventure",
+         "Drama",
+         "History",
+         "Romance"
+      ],
+      "runtime": [
+         "212 min",
+         "219 min (1970)",
+         "224 min (1962)",
+         "222 min (1993 re-release)",
+         "214 min (DVD edition)",
+         "222 min (2005 DVD)"
+      ],
+      "type": "M",
+      "country": ["USA"],
+      "title": "Ben-Hur",
+      "imdb_url": "http://www.imdb.com/title/tt0052618/",
+      "rating_count": 101434,
+      "also_known_as": ["Ben-Hur: A Tale of the Christ"],
+      "imdb_id": "tt0052618",
+      "poster": {
+         "cover": "http://imdb-poster.b0.upaiyun.com/000/052/618.jpg!cover?_upt=562c41ea1384809920",
+         "imdb": "http://ia.media-imdb.com/images/M/MV5BNzQyOTQ0ODk2NF5BMl5BanBnXkFtZTcwNTkwOTI3MQ@@._V1_SX214_.jpg"
+      },
+      "plot_simple": "When a Jewish prince is betrayed and sent into slavery by a Roman friend, he regains his freedom and comes back for revenge.",
+      "release_date": 19600129,
+      "writers": [
+         "Lew Wallace",
+         "Karl Tunberg"
+      ],
+      "year": 1959,
+      "actors": [
+         "Charlton Heston",
+         "Jack Hawkins",
+         "Haya Harareet",
+         "Stephen Boyd",
+         "Hugh Griffith",
+         "Martha Scott",
+         "Cathy O'Donnell",
+         "Sam Jaffe",
+         "Finlay Currie",
+         "Frank Thring",
+         "Terence Longdon",
+         "George Relph",
+         "André Morell"
+      ],
+      "filming_locations": "Durango, Mexico",
+      "rating": 8.1,
+      "language": ["English"],
+      "directors": ["William Wyler"]
+   }
+]
