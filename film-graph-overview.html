@@ -1,0 +1,220 @@
+<html>
+<head>
+<!-- CSS goes in the document HEAD or added to your external stylesheet -->
+<style type="text/css">
+table.gridtable {
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#333333;
+	border-width: 1px;
+	border-color: #666666;
+	border-collapse: collapse;
+}
+table.gridtable th {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #dedede;
+}
+table.gridtable td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #ffffff;
+}
+div.cypher {
+-webkit-background-clip: border-box;
+-webkit-background-origin: padding-box;
+-webkit-background-size: auto;
+background-attachment: scroll;
+background-clip: border-box;
+background-color: rgba(0, 0, 0, 0);
+background-image: none;
+background-origin: padding-box;
+background-size: auto;
+border-bottom-color: rgb(51, 51, 51);
+border-bottom-left-radius: 3px;
+border-bottom-right-radius: 3px;
+border-bottom-style: none;
+border-bottom-width: 0px;
+border-image-outset: 0px;
+border-image-repeat: stretch;
+border-image-slice: 100%;
+border-image-source: none;
+border-image-width: 1;
+border-left-color: rgb(51, 51, 51);
+border-left-style: none;
+border-left-width: 0px;
+border-right-color: rgb(51, 51, 51);
+border-right-style: none;
+border-right-width: 0px;
+border-top-color: rgb(51, 51, 51);
+border-top-left-radius: 3px;
+border-top-right-radius: 3px;
+border-top-style: none;
+border-top-width: 0px;
+color: rgb(51, 51, 51);
+display: inline;
+font-family: Consolas, 'Liberation Mono', Courier, monospace;
+font-size: 12px;
+font-style: normal;
+font-variant: normal;
+font-weight: normal;
+height: auto;
+line-height: 19px;
+list-style-type: decimal;
+margin-bottom: 0px;
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 0px;
+padding-bottom: 0px;
+padding-left: 0px;
+padding-right: 0px;
+padding-top: 0px;
+text-align: left;
+white-space: pre;
+width: auto;
+word-wrap: normal;
+}
+
+</style>
+
+</head>
+<body>
+
+<h2>Overview:</h2>
+<p style="padding-left: 30px;">A sample project using a dataset of movies, actors, directors, writers, and genres from the AFI Top 100 list that is transformed into a graph representation and persisted in the neo4j graph database. &nbsp;A series of example queries are then presented showing the power of the neo4j cypher querying language. &nbsp;</p>
+<p style="padding-left: 30px;">My main motivation for doing this project is that neo4j is a cutting edge database that does not yet have a rich set of examples online to learn from. &nbsp;Based on using neo4j in production for the past year in enterprise risk analytics projects, I'm convinced that the popularity of graph databases will increase significantly in the future. &nbsp; This project is meant to demonstrate a rather simple, but hopefully interesting, application of neo4j. &nbsp;See <a href="http://www.neotechnology.com/customers/" target="_blank">this page</a> for more information about companies using neo4j and some suggested use cases.</p>
+<p style="padding-left: 30px;">Feel free to skip to the Querying the Data&nbsp;section if the technical discussion of the project is not of interest.</p>
+<p style="padding-left: 30px;">&nbsp;</p>
+<hr />
+<p style="padding-left: 30px;">&nbsp;</p>
+<p style="padding-left: 30px;">&nbsp;</p>
+<h2>Project&nbsp;Usage:</h2>
+<h3 style="padding-left: 30px;">Required Tools:</h3>
+<p style="padding-left: 60px;">This project was made using Grails, Neo4j 2.0, and Java 1.7. &nbsp;There is not a front end interface provided by this project, but the <a href="http://blog.neo4j.org/2013/10/neo4j-200-m06-introducing-neo4js-browser.html" target="_blank">Neo4j Browser</a> can be launched against this projects database to interactively visualize the graph structure.</p>
+<h3 style="padding-left: 30px;">Running the Project:</h3>
+<p style="padding-left: 60px;">1. &nbsp;Install <a href="http://grails.org/" target="_blank">Grails 2.2.4</a>, install&nbsp;<a href="http://www.neo4j.org/download/other_versions" target="_blank">neo4j-community-2.0.0-M06</a>, and Java 1.7.</p>
+<p style="padding-left: 60px;">2. &nbsp;Clone the film-graph project on GitHub or download the zip.</p>
+<p style="padding-left: 60px;">3. &nbsp;Navigate to the root directory of the film-graph project and type grails run-app</p>
+<p style="padding-left: 60px;">4. &nbsp;After grails finishes loading, browse to&nbsp;<a href="http://localhost:8080/film-graph/initialization/initialize">http://localhost:8080/film-graph/initialization/initialize</a></p>
+<p style="padding-left: 60px;">5. &nbsp;After a message appears saying the initialization is complete, open up the Neo4j Browser and point it at the film-graph/db/data/film-graph_dev folder that contains the neo4j dataset.</p>
+<h2>Technical Discussion:&nbsp;</h2>
+<h3 style="padding-left: 30px;">Data Acquisition:</h3>
+<p style="padding-left: 60px;">The list of AFI Top 100 movies is <a href="http://www.imdb.com/list/RWlAaSYvw-8/" target="_blank">scrapped from a web page</a> that includes the AFI ranking and the IMDB ids of each movie. &nbsp;The detailed info on each movie is retrieved via API calls made to <a href="http://mymovieapi.com/" target="_blank">My Movie API</a>&nbsp;that returns JSON formatted data for a given IMDB ids</p>
+<p style="padding-left: 90px;"><em>See&nbsp;<a href="https://github.com/mcphilip/film-graph/blob/master/grails-app/services/com/philipmcclelland/filmgraph/datasource/AfiTop100Service.groovy#L30" target="_blank">AfiTop100Service.initializeAtiTop100Movies</a>&nbsp;for HTML scrapping implementation</em></p>
+<p style="padding-left: 90px;"><em>See <a href="https://github.com/mcphilip/film-graph/blob/master/grails-app/services/com/philipmcclelland/filmgraph/datasource/MyMovieAPIService.groovy#L49" target="_blank">MyMovieAPIService.loadApiDataForTop100Movies</a> for MyMovieAPI data retrieval implementation</em></p>
+<h3 style="padding-left: 30px;">Data Transformation:</h3>
+<p style="padding-left: 60px;">Once all data has been acquired, the IMDB JSON responses are parsed into simple DTOs (i.e. <a href="https://github.com/mcphilip/film-graph/blob/master/src/groovy/com/philipmcclelland/filmgraph/datasource/types/ImdbMovie.groovy" target="_blank">ImdbMovie.groovy</a>) for simplicity's sake. &nbsp;The&nbsp;ImdbMovie DTOs are passed to a service that creates the actual nodes in relationships in neo4j. &nbsp;Since many&nbsp;actors, directors, writers, and genres appear in multiple AFI Top 100 films, the data persistenace algorithms are careful to only create a&nbsp;single node per unique entity.</p>
+<p style="padding-left: 90px;"><em>See <a href="https://github.com/mcphilip/film-graph/blob/master/grails-app/services/com/philipmcclelland/filmgraph/datasource/ImdbService.groovy#L27" target="_blank">ImdbService.loadImdbMovieNode</a> for the implementation</em></p>
+<p style="padding-left: 60px;">The method by which nodes and relationships are inserted into neo4j makes use of features&nbsp;in the&nbsp;cypher query language that allow writing data in very sophisticated ways. &nbsp;For more information, <a href="http://docs.neo4j.org/chunked/milestone/query-create-unique.html" target="_blank">see this documentation</a>. &nbsp;In essence, you can declare&nbsp;a graph traversal patttern you want in the database but restrict neo4j to only creating any elements in the path that don't already exist.</p>
+<p style="padding-left: 90px;"><em>See <a href="https://github.com/mcphilip/film-graph/blob/master/grails-app/services/com/philipmcclelland/filmgraph/datasource/ImdbService.groovy#L41" target="_blank">ImdbService.createDirectorRelationships</a> for&nbsp;an example of creating a 'DIRECTOR_OF' relationship between a&nbsp;director and a given movie in a way that guarantees a unique&nbsp;path between the two.</em></p>
+<p style="padding-left: 90px;">&nbsp;</p>
+<p style="padding-left: 30px;"><strong><em>At this point all the data has been loaded and transformed into a graph that can be explored via the Neo4j Browser and/or by writing custom cypher queries.</em></strong></p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p style="padding-left: 30px;">&nbsp;</p>
+<h2>Querying&nbsp;the Data:</h2>
+<p style="padding-left: 30px;"><em>The following questions are followed by the cypher query and execution results. &nbsp;Explaining the details of how each cypher query works is outside of the scope of this overview, but my goal is to show that even very complex questions can be answered using cypher</em></p>
+<h4 style="padding-left: 60px;">What actors have appeared in the most AFI Top 100 films?</h4>
+
+<div style="padding-left:90px">
+<div class="cypher">MATCH
+	(actorNode)-[:ACTED_IN]->(movieNode)
+RETURN
+	actorNode.name as Actor,
+	COUNT(movieNode) as `Number of Movies`
+ORDER BY
+	`Number of Movies` DESC,
+	Actor
+LIMIT 10</div>
+
+<p>&nbsp;</p>
+
+<table class="gridtable"><thead><tr><th>Actor</th><th>Number of Movies</th></tr></thead><tbody><tr><td>Robert Duvall</td><td>6</td></tr><tr><td>Harrison Ford</td><td>5</td></tr><tr><td>James Stewart</td><td>5</td></tr><tr><td>Robert De Niro</td><td>5</td></tr><tr><td>Dustin Hoffman</td><td>4</td></tr><tr><td>Humphrey Bogart</td><td>4</td></tr><tr><td>Marlon Brando</td><td>4</td></tr><tr><td>Thomas Mitchell</td><td>4</td></tr><tr><td>William Holden</td><td>4</td></tr><tr><td>Alec Guinness</td><td>3</td></tr></tbody></table>
+
+</div>
+<p>&nbsp;</p>
+
+<h4 style="padding-left: 60px;">What are the genres of the top ten films?</h4>
+
+<div style="padding-left:90px">
+<div class="cypher">
+MATCH
+	(movieNode)<-[:GENRE_OF]-(genreNodes)
+WHERE
+	movieNode.afiRank <= 10
+WITH
+	movieNode,
+	genreNodes
+ORDER BY
+	genreNodes.name ASC
+RETURN
+	movieNode.title as Movie,
+	movieNode.afiRank as `AFI Rank`,
+	COLLECT(genreNodes.name) as `Genres`
+ORDER BY
+	`AFI Rank` ASC;
+</div>
+
+<p>&nbsp;</p>
+
+<table class="gridtable"><thead><tr><th>Movie</th><th>AFI Rank</th><th>Genres</th></tr></thead><tbody><tr><td>El ciudadano
+            "Citizen Kane"</td><td>1</td><td>Drama, Mystery</td></tr><tr><td>The Godfather</td><td>2</td><td>Crime, Drama</td></tr><tr><td>Casablanca</td><td>3</td><td>Drama, Romance, War</td></tr><tr><td>Raging Bull</td><td>4</td><td>Biography, Drama, Sport</td></tr><tr><td>Singin' in the Rain</td><td>5</td><td>Comedy, Musical, Romance</td></tr><tr><td>Gone with the Wind</td><td>6</td><td>Drama, Romance, War</td></tr><tr><td>Lawrence of Arabia</td><td>7</td><td>Adventure, Biography, Drama, History, War</td></tr><tr><td>Schindler's List</td><td>8</td><td>Biography, Drama, History, War</td></tr><tr><td>Vertigo</td><td>9</td><td>Mystery, Romance, Thriller</td></tr><tr><td>The Wizard of Oz</td><td>10</td><td>Adventure, Family, Fantasy, Musical</td></tr></tbody></table>
+
+</div>
+<p>&nbsp;</p>
+
+<h4 style="padding-left: 60px;">Have any actors appeared in 2 or more of the top 25 films?</h4>
+			
+<div style="padding-left:90px">
+	<div class="cypher">
+MATCH 
+	(actorNode)-[:ACTED_IN]->(movieNode) 
+WITH 
+	actorNode, 
+	movieNode
+ORDER BY 
+	movieNode.afiRank ASC 
+WITH 
+	actorNode, 
+	COUNT(movieNode) as movieCount, 
+	COLLECT(movieNode.afiRank) as afiRankings,
+	COLLECT(movieNode) as moviesList	
+WHERE
+	movieCount > 1
+	AND afiRankings[-1] < 25
+	AND afiRankings[0] < 25
+WITH 
+	actorNode.name as Actor, 
+	movieCount, 
+	HEAD(moviesList) as topMovie,
+	REDUCE(movieDescription = [], imdbDetails in TAIL(moviesList) | 
+		movieDescription + [ "[#" + STR(imdbDetails.afiRank) + " - " + imdbDetails.title + "]" ]
+	) as otherFilms,	
+	HEAD(afiRankings) as highestAFI
+ORDER BY 
+	highestAFI ASC, 
+	movieCount DESC
+RETURN
+	Actor,
+	("#" + highestAFI + " - " + topMovie.title) as `Top Movie`,
+	otherFilms as `Other Films in the Top 25`
+	</div>
+
+	<p>&nbsp;</p>
+
+<table class="gridtable"><thead><tr><th>Actor</th><th>Top Movie</th><th>Other Films in the Top 25</th></tr></thead><tbody><tr><td>John Qualen</td><td>#3 - Casablanca</td><td>[#12 - The Searchers], [#23 - The Grapes of Wrath]</td></tr><tr><td>Charley Grapewin</td><td>#10 - The Wizard of Oz</td><td>[#23 - The Grapes of Wrath]</td></tr><tr><td>Vera Miles</td><td>#12 - The Searchers</td><td>[#14 - Psycho]</td></tr><tr><td>Frank Albertson</td><td>#14 - Psycho</td><td>[#20 - Subarashiki kana, jinsei!
+            "It's a Wonderful Life"]</td></tr><tr><td>Buster Keaton</td><td>#16 - Sunset Boulevard
+            "Sunset Blvd."</td><td>[#18 - The General]</td></tr></tbody></table>	
+
+</div>			
+<p>&nbsp;</p>
+			
+</body>
+</html>
+
+
